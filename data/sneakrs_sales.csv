@@ -1,0 +1,1001 @@
+order_id,customer_name,product,size,price_per_unit,total_price,quantity,order_date
+96c242d9-53c4-46b5-a493-ad395a409558,Katherine Wong,Reebok Club C 85,40,367,1468,4,2024-05-12 12:32:24
+11a63199-aa6d-415c-9950-440f2aebbf4a,Stefanie Roach,Salomon XT-6,40,371,742,2,2024-03-13 11:31:06
+909a8165-8863-48fa-9b0e-efd9205e7ec9,John Chapman,Converse Run Star Hike,42,222,222,1,2024-02-26 03:47:18
+f74317f2-8824-4242-8f0e-279482e4dcca,Karen Holt,Adidas Superstar,40,462,462,1,2024-09-23 01:28:37
+00756272-96cc-4d9e-9a83-f4a848debfb9,Dana Foster,Nike Blazer Mid '77,43,356,356,1,2024-10-22 17:50:32
+df65c587-c804-42b1-936e-55699ea85bba,Carol Soto,Nike Air Jordan 1 Retro,39,185,370,2,2024-09-23 14:40:48
+d74c265f-545c-40e5-92bc-403167399bfa,Kristy Dominguez,Nike Air Max 90,36,136,680,5,2024-03-09 17:54:21
+5eaf335a-f97a-4cae-9944-c08a072a0757,Hunter Williams,Puma RS-X,41,357,357,1,2024-07-26 23:58:06
+227499dc-fc11-4ea4-a99a-a1f50abf41de,Joshua Chavez,Converse Run Star Hike,47,461,1383,3,2024-07-09 21:52:56
+2f8ced3e-52e5-43fa-b48e-5dd7de8c4eaa,Kelsey Davis,Nike Dunk Low,41,298,1192,4,2024-06-30 06:39:36
+a69421dd-3c4c-461b-a965-53ba176d6c3c,Dr. Yvonne Morris,New Balance 990v5,46,327,981,3,2024-07-22 02:48:56
+c4229776-f774-4642-a232-26acd8b29cbd,Kayla Walker,New Balance 990v5,47,330,660,2,2024-03-23 06:58:49
+f86eca73-91df-4113-9cdb-7970aa9eb811,Hayden Wyatt,Vans Old Skool,39,184,552,3,2024-03-13 09:44:42
+eb56d4ce-1cae-4df6-8eb5-80bf5598df09,Shannon Rogers,Puma RS-X,47,363,1089,3,2024-09-06 12:05:43
+e224e028-9407-4ef3-9e28-1f43c06d5990,George Cardenas,Nike Air Jordan 1 Retro,45,173,173,1,2025-01-14 01:13:10
+84b819d9-331f-4abf-aab1-1738c8f04f8d,Paul Lee,Adidas NMD R1,43,431,1293,3,2024-07-20 18:07:05
+d5a94785-2c42-4122-aa03-1d260e8b245b,Karen Vargas,Vans Old Skool,43,245,490,2,2024-08-26 18:56:40
+887fab5a-c232-4ddb-83c6-ef3dadaba27c,Martin Hicks,New Balance 327,47,351,1404,4,2024-03-15 11:40:23
+27d92207-4912-43e5-a7a2-59c19871a367,Michael Raymond,Asics Gel-Lyte III,38,460,2300,5,2024-07-18 00:03:59
+d2c94f02-c5d1-44cc-a4aa-ce8dbcb2d52e,Kelly Graham,Converse Chuck Taylor All Star,47,389,389,1,2024-11-05 00:17:26
+55f9da93-4482-4c0f-ab40-c9f5de2c3d60,Miguel Myers,Converse Run Star Hike,37,267,534,2,2024-05-21 06:10:54
+808bf914-8faf-47ae-a861-0a06901f5128,Matthew Estrada,Adidas Forum Low,43,403,2015,5,2024-03-05 11:08:17
+e40ef3db-915c-4088-b3f3-e7e829cf7c5e,Rodney Perez,Asics Gel-Lyte III,38,498,1494,3,2024-06-16 00:39:04
+49c41a34-3450-4ba7-8b8d-febbcf18f7f1,Jeff Collins,New Balance 327,43,147,441,3,2024-04-08 23:15:05
+2512febd-8ba2-4baf-b1ec-e305078554c7,Christina David,Nike Air Jordan 1 Retro,45,470,2350,5,2024-03-08 10:05:52
+204a7b68-081d-435c-a8ec-f11826add27a,Laura Smith,Salomon XT-6,43,479,479,1,2024-11-11 18:19:31
+81c3adb4-453a-47dc-9ca4-ee19818b36be,Amber Watson,Nike ZoomX Vaporfly Next%,43,144,432,3,2024-08-18 20:41:50
+1234d7a9-a344-4bd8-92f7-863285188cc2,Toni Butler,New Balance 2002R,38,123,492,4,2024-08-12 10:29:44
+a9316b02-40b6-4b05-8aec-f96776cf96fe,Hailey Beck MD,Salomon Speedcross 5,37,383,1915,5,2024-12-15 01:32:05
+4b546632-3ae2-445b-8440-263be506074c,Timothy Peterson,Nike ZoomX Vaporfly Next%,44,356,1424,4,2024-12-09 03:01:57
+7e74f55f-2cd7-4fb7-92de-b5f9668a0361,Kenneth Gilbert,Vans Sk8-Hi,41,352,704,2,2024-07-02 20:25:34
+7f929f36-cdb7-4aeb-a6b4-cef4a5ac087b,Jennifer Young,New Balance 327,45,458,2290,5,2024-08-03 17:14:56
+15bbd956-1d12-4d1a-bc91-1d7fbe4f10d6,Donald Hooper,New Balance 2002R,39,238,238,1,2024-09-09 14:42:57
+e9c61ae9-eb52-4461-b011-b883b243483f,Lisa Burns,Nike Dunk Low,36,492,1968,4,2024-10-04 22:09:48
+03c5f410-f817-4d18-9318-15564922c473,Scott Hines,New Balance 2002R,45,297,297,1,2024-09-24 18:56:44
+561f4cb4-ccd5-44ed-ba53-12c8c2de8ef4,Jill White,Adidas Yeezy 700,44,204,612,3,2024-07-25 22:04:29
+3945aea2-2b6e-4817-9b3d-82ad7cfc915a,Michelle Rodriguez,Adidas Superstar,39,418,418,1,2024-05-20 18:57:04
+d626189d-0d95-4bed-a273-0520a5351daf,Chelsea Brown,Adidas Forum Low,46,440,440,1,2025-01-01 04:25:00
+e7ee1d8b-9bc0-4068-a4e0-7a316a2d2de9,George Davis,New Balance 2002R,43,206,824,4,2024-08-29 17:36:12
+b71c4f5e-1071-4e24-bdbe-a431ff8eac05,Christine Cardenas,Adidas Ultra Boost,46,377,754,2,2025-01-19 09:32:11
+57e243e9-8273-4451-a89c-74cc9925742e,John Randolph,Converse Chuck Taylor All Star,46,428,2140,5,2024-09-16 22:51:19
+e324072e-ea51-409e-b9c6-8fde303c7530,Nancy Smith,New Balance 327,45,473,1892,4,2024-07-17 20:27:22
+844807c8-8731-4f96-9193-4a568d688cef,Jessica Carey,Nike SB Dunk High,44,119,238,2,2024-09-24 04:14:59
+43aa887b-c717-482d-94ee-4aec777edaf7,Matthew Diaz,Adidas Forum Low,44,183,915,5,2024-11-12 17:47:25
+4624ae71-ea9c-4b71-ae30-a55c46d125cf,Ashley Martinez,Nike Air Jordan 1 Retro,47,315,315,1,2025-01-24 14:19:29
+e4ae6851-9a5d-489f-87bf-ef47732fbd53,Dale Green,Adidas NMD R1,40,162,486,3,2024-07-02 18:15:22
+262eda01-8530-4d95-90d5-09e83f1d20bc,Andrea Morton,Puma RS-X,41,346,1038,3,2024-04-06 02:02:02
+57ce554c-a483-4881-a454-db39afa97ae3,Kimberly Hayes,New Balance 990v5,43,280,840,3,2024-11-28 23:44:40
+bcafced8-c144-44ec-95e5-0dd977ba4b9d,Keith Kline,New Balance 2002R,43,362,1086,3,2024-11-22 22:01:15
+670f86b6-5c02-489f-acff-3bdb7d19e79f,Melissa Burch,New Balance 550,38,365,365,1,2024-05-19 05:10:13
+73f50dda-20ed-4a49-a0d9-efa4193c59e0,Kenneth Davis,Adidas Yeezy 700,42,248,496,2,2024-04-17 02:56:25
+7477b951-737d-4260-930f-3f5b1ff61785,Kevin Underwood,Adidas Samba OG,39,441,882,2,2025-02-12 23:39:55
+54149f7a-f099-4918-bb00-fe81c1252338,Charles Allen,Puma RS-X,36,148,592,4,2024-07-27 17:34:49
+f048b434-8316-4b39-acc2-f21ab588f863,Michael Thompson,Adidas NMD R1,41,291,873,3,2024-03-03 20:49:24
+4ae56071-11dc-4118-9396-202f2e50f6a4,Aaron Johnson,New Balance 550,40,218,218,1,2024-03-19 08:26:16
+08baab96-70b5-4b9c-b889-c60cb8397f43,Shawn Miller,Nike SB Dunk High,36,379,1516,4,2024-11-22 19:18:46
+b9c8aa2c-cb62-4bdc-93fe-ca09035e0f37,Christopher Ewing,Salomon XT-6,38,477,2385,5,2024-06-10 19:50:46
+9227e55e-4e2d-4334-80f7-3d0b4b064f93,Thomas Mcmahon,Adidas Yeezy Boost 350,37,324,648,2,2024-12-15 11:01:17
+1206b8ce-a914-481c-b59a-5a2038a28489,Austin Ramirez,Reebok Club C 85,46,421,1263,3,2024-03-01 20:01:34
+2882ffbe-ba0a-4726-868e-41b2df4e8133,Michael Small,Adidas Yeezy Boost 350,41,335,1005,3,2024-03-25 17:13:11
+69e453cb-627f-45e7-9f68-c46faf239b05,Kelly Young,Nike Dunk Low,37,213,1065,5,2024-03-07 12:26:00
+fa659f11-d097-4ddf-aae6-e2331c6ec497,Catherine Wheeler,Adidas Ultra Boost,46,287,861,3,2024-08-22 21:24:46
+eccfc94a-40d1-48a0-8bd7-d6cd8274f034,Leah Willis,Puma Suede Classic,37,291,582,2,2024-10-12 04:04:06
+dc862355-a9f1-47f6-8125-310844e1faf2,Megan Morris,Adidas Yeezy 700,36,426,1278,3,2024-07-08 08:28:37
+dfd6b9c9-3b6c-4a85-b79b-3f45f40caead,Angela Middleton,Puma RS-X,36,457,1828,4,2024-09-11 01:35:39
+2676c476-eb64-4862-9196-122c5ab38bbd,Jennifer Ward,New Balance 550,46,194,194,1,2024-10-10 22:46:18
+843028d9-96c6-4b22-bfba-12f63b9ee4bb,Jennifer Underwood,Adidas Yeezy 700,43,441,441,1,2024-04-27 14:49:03
+d43dd11b-1da1-4222-83aa-9a5706618672,Jorge Leonard,New Balance 327,45,217,1085,5,2024-11-25 23:56:17
+3409c8b9-20cb-4bc3-bc4f-ea062d59349e,Robert Lutz,Adidas Forum Low,45,278,556,2,2025-02-20 02:24:46
+bb5e57a8-44b7-4484-bdca-c3c504cd5b87,Danny Mccann,Asics Gel-Lyte III,36,215,430,2,2025-01-18 06:39:17
+0ba586f3-517b-4f9e-92fb-5d68212589b7,Rachel Espinoza MD,Adidas Yeezy 700,39,240,1200,5,2024-11-28 22:19:30
+c049b85d-acc5-4d35-94f6-1aefd658a536,Monica Powers,Reebok Club C 85,43,138,276,2,2024-04-26 00:09:47
+bf7bad6f-39ac-4d61-af83-48aba26e7003,Rachel Porter,Nike Air Max 90,38,190,570,3,2025-01-11 03:59:28
+e2b68c45-4f34-4fa9-9ac3-3c343e6e848b,Karen Melendez,Asics Gel-Kayano 14,45,361,1083,3,2024-04-13 07:39:58
+b3c32a26-ac8b-4058-b038-f588b46bed0f,Terry Carroll,New Balance 550,46,422,422,1,2024-06-21 19:31:26
+4ebaed07-48ad-4376-adfe-725cceba639c,Bradley Gardner,Salomon XT-6,45,243,1215,5,2024-06-06 00:45:26
+85b92bef-477f-4c97-8d21-fa552355c895,Cynthia Hess,Converse Chuck Taylor All Star,45,299,897,3,2024-03-30 00:23:58
+be42b9e5-fea5-4346-b520-ef60231f289c,Kelly Jackson,Puma RS-X,44,159,477,3,2025-02-18 15:28:19
+b5837195-b754-438b-b78c-3434cd48c73b,Debra Robertson,Asics Gel-Lyte III,46,496,1984,4,2024-11-27 21:27:03
+5aabb818-ce44-44c3-abc0-a919594072bc,Alex Griffin,Nike Air Jordan 1 Retro,36,477,1908,4,2025-02-15 21:46:37
+0fd1e906-555b-4622-8a00-e61738f448dc,Mr. Bradley Henderson,Adidas Yeezy Boost 350,38,442,884,2,2024-08-25 07:34:00
+0bd7f0c7-6790-4b2e-9bce-521d0d746426,Blake Foster Jr.,Nike Air Max 90,45,451,1353,3,2025-02-01 12:40:18
+a2d15f6c-ee1b-46d7-a76d-11b51e8deb8c,Dakota Montes,Adidas Yeezy 700,38,319,638,2,2024-10-23 08:57:21
+cd42632d-f259-43ea-a6ed-29310edb85bf,Heather Wilson,Reebok Classic Leather,40,264,1056,4,2024-04-16 17:40:06
+1d0b3906-9f24-4ec2-8bdc-4656b5e607f1,Christopher Park,Vans Sk8-Hi,45,161,161,1,2024-07-15 19:47:52
+4ea32974-e915-402f-afe5-04b0e30af354,Monica Bentley,Salomon XT-6,47,183,915,5,2024-08-29 01:24:47
+ec5afc0e-e9e3-465f-be54-5a4ff80e3e94,Christine Salazar,Salomon Speedcross 5,38,365,1460,4,2024-06-27 14:14:20
+b7320630-eb24-45db-a3fe-e1d285077c84,William Harrison,Asics Gel-Kayano 14,39,172,172,1,2024-06-28 15:47:07
+94a049b9-25c4-4e45-a11d-a93072180e25,Gail Garcia,Asics Gel-Lyte III,43,500,2000,4,2024-06-23 12:08:01
+457d4108-c87f-4d8b-9759-dd8a3cdcfe21,Michelle Wheeler,Salomon Speedcross 5,39,240,1200,5,2024-09-10 11:30:32
+8a1418d1-4e8b-4afc-9f49-40b1b9e21149,Austin Benton,Adidas Forum Low,38,401,1203,3,2024-06-14 12:46:55
+ec30a646-ce0d-419f-aec9-9f5bb485c77f,Dana Johnson,Adidas Superstar,39,436,2180,5,2024-10-22 07:16:55
+1bff8677-5663-427e-a21f-d89c39578371,Sarah Miller,Nike Air Jordan 1 Retro,37,101,505,5,2024-10-01 08:58:07
+842bd34b-7e5f-4803-bb27-c54d55352b90,Dana Shelton,Adidas Superstar,47,223,1115,5,2024-08-27 09:03:01
+2b8c2db8-e3d6-4907-a33f-c527b4643468,Devin Romero,New Balance 990v5,41,256,768,3,2024-12-09 16:05:41
+c401f85c-f04b-41f4-9170-f741fe1678d9,Gary Warren,Nike Dunk Low,40,107,321,3,2024-12-09 20:23:33
+2b7fb5a8-9e9e-4998-b7bd-700de1052151,Steven Wells,Nike Air Max 90,39,209,836,4,2025-02-15 07:05:08
+b4fa78c9-73e2-4184-97b8-76626a0ccaee,Patricia Porter,Adidas Yeezy Boost 350,45,432,432,1,2024-10-09 20:30:26
+ea1665ea-faef-4761-89a4-ab1a685ee411,Tammy Jackson,Puma Future Rider,47,324,972,3,2025-01-07 10:47:03
+51bf4a80-faf9-4589-ba92-2a8aa1f413df,Daniel Ellis,Adidas Yeezy Boost 350,43,458,458,1,2024-03-15 18:48:58
+7bed2a87-d27f-4f04-9773-bd6a8f6ccad1,Dillon Cole,New Balance 990v5,44,433,2165,5,2024-09-16 06:46:10
+61505b22-bb92-441a-8cdb-a0b5f1168358,David Graham,Adidas Forum Low,42,242,484,2,2024-11-26 05:10:44
+c4d44352-d82b-4d06-b0a6-c35a677d60f2,Bonnie Olson,New Balance 550,45,119,238,2,2024-04-29 07:26:05
+267d8fc6-5a3a-4bdf-beba-970d4c55ea59,Allison Hill,Salomon XT-6,37,382,382,1,2024-09-20 18:58:03
+758d4213-2517-4dfb-8df0-03031dd74582,Sheila Freeman,Adidas Samba OG,38,101,404,4,2024-05-28 14:00:56
+c2e12fe9-fbd7-4c89-9cc2-f9a217c34679,Suzanne Mooney,Nike SB Dunk High,37,367,1835,5,2024-11-05 18:06:31
+07322a64-ff81-48e9-b0ee-52a35f7d6a37,Terry Ramos,Puma Suede Classic,39,152,304,2,2024-12-28 13:53:21
+beac1f26-2cb6-4088-ae5f-160d25cbdd99,Katherine Horton,Reebok Club C 85,41,245,245,1,2024-10-06 16:13:26
+3a5f010d-3b4b-4531-9652-eccf93f12d66,Brent Wilson,Vans Old Skool,43,449,1347,3,2024-06-28 12:34:59
+4b81f009-0720-43c5-8476-6b4c76eaf3df,Richard Reid,Salomon Speedcross 5,43,122,122,1,2024-07-09 14:13:37
+f2ef14ad-0cb6-4e30-8f4b-bfb380b7b47a,Taylor Scott,Reebok Classic Leather,39,363,1089,3,2025-01-26 15:43:31
+1d7d1d2c-5d1f-4e31-92fa-22e7a50d9232,Frederick Bradley,New Balance 550,38,222,1110,5,2024-08-30 22:28:00
+c6eff187-3c9e-4cfa-9241-a1fa6eddefd7,Jerome Thompson,Reebok Club C 85,37,444,444,1,2025-01-02 21:25:55
+f8614b97-c1c7-4175-af80-bd2ba8d9d6e2,Dr. Phillip Curry,Adidas Yeezy Boost 350,42,473,473,1,2024-12-09 11:25:25
+8d211086-b062-4ffe-bb43-ef2a594ff323,Tara Shelton,Asics Gel-Kayano 14,43,209,1045,5,2024-05-05 14:30:33
+fb0b25cb-22dc-4824-a685-2bc76d222000,Jeffrey Smith,Adidas Ultra Boost,36,362,1448,4,2024-08-15 04:42:07
+f1b42755-51cd-4db5-a6d7-9ab02af192e7,Samuel Tran,New Balance 990v5,41,312,1248,4,2024-04-17 05:20:25
+26367d3b-a3b1-4b42-9657-9f4b52d56ed2,Lisa Garza,Adidas Forum Low,43,278,1112,4,2024-03-27 14:39:04
+fab6e0fc-dd0b-47b6-8510-37597b68b03f,George Anderson,Reebok Club C 85,43,447,447,1,2024-09-01 23:31:05
+28fb41d3-e768-4497-a6f1-8bc94f60bc9d,Laura Carter,New Balance 550,42,187,374,2,2024-10-11 10:01:29
+1e7dfecd-76ec-4465-a9e5-4ab3c0d422ec,Joshua Randolph,Adidas Ultra Boost,43,470,2350,5,2024-05-13 02:29:54
+3d66a6fb-72e2-471e-b266-8d63987cfa75,Brent Rodriguez,Puma Suede Classic,39,409,818,2,2024-05-15 19:37:47
+459171ef-94b9-4d92-859a-ec750cc6a4de,Daniel Horton,Puma Suede Classic,42,435,870,2,2025-02-15 15:07:18
+0c85f7b9-5461-4f9d-bd22-37a8a651b30e,Brent Lowery,Adidas NMD R1,43,214,642,3,2024-12-14 21:25:12
+3a4e51bc-9644-4026-93d9-77154720a376,Karen Lopez,Nike Dunk Low,38,215,645,3,2024-12-01 09:53:03
+01911e92-483e-47f4-b0ac-caa2db0f7dbc,Laurie Morrow,Asics Gel-Lyte III,37,219,438,2,2024-11-15 00:16:55
+a2f918f6-cd47-4868-a47b-c7ff62092af5,Ryan Hernandez,Puma Suede Classic,40,448,2240,5,2024-03-31 17:56:51
+2389dd31-32f3-40f3-930b-da3cb00cab84,Alexa Williams,Asics Gel-Kayano 14,42,122,488,4,2024-05-25 13:32:03
+2e8be19f-92a5-442b-9bd5-fd8233a656b7,Robin Hansen,Nike Air Force 1,40,283,849,3,2024-08-15 22:04:09
+e05083a5-3947-4137-8412-1972382b373e,Michael Mcguire,Reebok Club C 85,46,190,380,2,2024-10-29 19:30:10
+ada6bc04-82ea-4e10-9b25-3df866c70d33,Andrea Vargas,Adidas Forum Low,47,450,2250,5,2025-02-12 04:24:25
+e3e9f897-a8cc-43f6-9e98-67e2483d1b76,Ernest Gentry,Nike Air Jordan 1 Retro,46,470,1410,3,2024-08-04 21:21:15
+045183bf-d2bb-4f54-8383-8405017cfdee,Christina Williams,Vans Sk8-Hi,39,464,2320,5,2025-01-04 01:09:46
+c1762b87-1eba-4200-abfb-f1ba82c8f3ae,David Brown,Nike Dunk Low,40,315,630,2,2024-04-23 02:15:48
+e2eed2a3-dd49-4a8c-93da-1be0f75ee7d5,Dawn Green,Adidas NMD R1,47,173,173,1,2024-04-09 14:57:18
+843069bd-ec84-4e9e-a9bf-3382cbaccf6d,Jennifer Fletcher,Salomon XT-6,42,152,456,3,2024-08-02 18:40:58
+34c0f546-c20c-47a2-9f0f-037f6edf5c28,Andrea Rivers,New Balance 550,44,248,744,3,2025-02-12 06:17:00
+08cd2b1c-6a65-48e3-ae4b-712f29ed536a,Brian Kim,Puma RS-X,43,294,588,2,2025-02-18 07:33:37
+c3b67943-d5a2-4eb0-b705-e8f01667fb67,Matthew Schmidt,Salomon Speedcross 5,47,185,555,3,2024-11-25 08:40:07
+39fcc916-b1e5-4399-a560-f078ebee3fd5,Rachel Perez,Nike SB Dunk High,44,246,492,2,2025-01-30 03:45:11
+b9e4bc3c-56ee-48ae-a08b-f8901ce86ee5,Joshua Walters,Asics Gel-Kayano 14,44,355,1775,5,2024-04-14 20:56:00
+b84af634-4909-41cf-ad97-50a3c95d30ff,Alexander Garcia,New Balance 550,47,182,546,3,2024-06-17 14:24:05
+b4f72908-6eb1-4484-b917-31c042e6858f,Timothy Stone,New Balance 550,41,434,1736,4,2024-10-27 11:22:09
+0f9b6f83-6bc8-40d5-97c2-d7cd6695b5a6,Kimberly Williams,Vans Old Skool,42,482,964,2,2024-04-18 00:50:39
+87d0ba17-dbfb-4e52-8ced-45c60ee3b46e,Alexandria Stephens,Asics Gel-Kayano 14,37,123,492,4,2025-01-24 07:51:59
+7f54a8b0-c657-4b6a-a167-7744ad206abb,Mark Hernandez,Adidas Yeezy Boost 350,46,443,886,2,2024-09-06 09:55:22
+bfe5d32a-55b3-4336-975d-0fb39832f202,Joshua Hendricks,Nike Air Jordan 1 Retro,45,370,1110,3,2024-10-26 08:13:36
+4cb51bca-a686-427f-b9ce-71cd6114044d,Monique Garner,Converse Chuck Taylor All Star,39,198,792,4,2024-04-12 21:14:31
+35c09096-31e0-4bf1-b376-a6d9b36e9142,Michael Clark,Salomon Speedcross 5,40,436,872,2,2025-02-13 10:03:01
+82e64332-480b-4914-8617-432fcfe6bfc2,Jason Brown,Vans Old Skool,42,414,828,2,2025-01-12 19:55:52
+aca216d8-93a6-43d0-8afe-7224e178811d,Michelle Sosa,Nike Blazer Mid '77,37,226,226,1,2024-08-01 04:29:32
+0c00ba8c-45ae-4958-b0b3-9e08a84c204b,Victoria Clark,New Balance 327,43,184,736,4,2024-11-24 12:01:17
+5d94f482-18d5-424e-a6dd-d13efa6671ff,Benjamin Vega,Adidas Yeezy Boost 350,39,131,262,2,2024-05-26 16:28:49
+f9909944-7861-434a-8320-d2a813fd28dd,Isaac Rodriguez,New Balance 990v5,45,366,1464,4,2024-09-29 07:31:24
+3a827b4b-86db-4b7a-9cc5-d2353d7862e5,Mrs. Rebecca Hull,Reebok Club C 85,47,133,266,2,2024-06-12 09:57:57
+62372417-616f-4028-99e9-8d08e70a6cef,Alvin Moore,Nike Blazer Mid '77,40,354,354,1,2024-04-04 11:16:23
+02c451d8-bd45-4926-8799-5dccbbb15ef9,Kimberly Saunders,Nike Air Jordan 1 Retro,42,253,253,1,2024-10-07 15:42:42
+1f715d7e-0d29-47f7-a5a4-f068d2272296,Ruth Flores,Vans Old Skool,42,330,1320,4,2024-08-11 01:42:02
+9a82b42c-be7a-4e64-863e-bb8fa4f487fc,Jasmine Thomas,Nike Air Jordan 1 Retro,46,105,210,2,2025-01-21 03:33:13
+0fdb1d5e-62e2-44cf-801b-b050db754c6d,Julie Johnson,Adidas Samba OG,37,143,143,1,2024-12-07 01:46:00
+bba7a719-1529-435c-a6f1-cc3bc505a3de,Troy Waters,Adidas Yeezy 700,36,412,1236,3,2024-07-12 08:51:09
+cbd21d84-96e1-4715-9625-80219b126d36,Mary Clark,Adidas Yeezy Boost 350,47,498,498,1,2024-09-19 03:51:20
+fa775c26-4eca-401c-964c-d18806d91dfe,Laura Dixon,Adidas NMD R1,46,310,1240,4,2024-09-30 04:02:02
+4f2f78f6-2562-4450-bb0c-3fa4ffa6f57d,Stephanie Stanley,Puma Suede Classic,43,395,790,2,2024-12-23 06:43:30
+573c1c23-0271-4034-9fbf-1c03d2060059,Dennis Santiago,New Balance 2002R,41,492,2460,5,2025-02-10 03:15:27
+2d99a330-73c7-48a4-8f74-4310241fac75,Randy Spencer,Asics Gel-Lyte III,42,381,1524,4,2024-12-31 05:34:29
+c87d1df1-9d23-45a1-83fe-2b5b0b07576e,Rebekah Lawson,Vans Sk8-Hi,37,326,326,1,2025-02-20 01:09:18
+223d1c68-2d97-4d76-b099-043e08b8edd2,Trevor Hall,Converse Run Star Hike,39,209,418,2,2024-09-28 21:28:32
+7ed6c1e5-5812-4217-9c52-b0c8515dd081,Olivia Hernandez,Salomon Speedcross 5,45,422,1266,3,2024-10-03 18:02:13
+07773a69-284b-44f2-bd01-17c75c46098b,Jim Lang,Converse Chuck Taylor All Star,44,385,1155,3,2024-04-26 17:02:39
+d943c2f1-fbaf-414e-b9e1-61d8dd5c206d,Deborah Sloan,Adidas Forum Low,46,465,2325,5,2024-07-30 08:00:44
+1dc74716-92bf-4bf8-a75d-65c363329f0b,Todd Petersen,Adidas Forum Low,40,142,426,3,2024-10-06 03:29:50
+e49a7c94-4f49-49d2-8540-2ed7d83fb1dd,Mariah Davis,Nike Blazer Mid '77,43,450,1350,3,2024-05-18 09:02:51
+0764417b-9dda-4d70-b681-0d2a21f374c9,Lori Wilkerson,Nike Dunk Low,37,117,117,1,2024-11-16 01:48:08
+2c95a8bd-1e14-473d-85f7-4a0b0d065a30,Amy Ross,Nike ZoomX Vaporfly Next%,41,190,380,2,2024-09-30 00:50:47
+c1ee3443-1933-4749-8f2d-e2505e814b79,Jasmine Proctor,New Balance 2002R,36,175,350,2,2024-03-20 09:31:32
+ad60ecbf-a647-48d6-a459-ee3c995c090a,Maria Jones,Asics Gel-Kayano 14,41,154,154,1,2024-04-20 04:23:06
+459f5293-48e9-4923-8fd5-9f8d03bf1ee6,Melissa Palmer,Salomon Speedcross 5,47,470,940,2,2024-08-09 18:52:50
+5ab5c814-d2ea-45f1-95f3-786a655a8a3d,Catherine Gallegos,Nike Air Force 1,44,499,998,2,2024-09-20 23:05:47
+fb6473fa-efa1-4c7f-8402-b4ddb448ec0f,Melinda Carter,Asics Gel-Kayano 14,42,203,609,3,2024-05-22 02:50:15
+5dc70394-ea6e-49b6-8cf9-12d84a30f887,Kenneth Turner,Salomon Speedcross 5,47,419,419,1,2025-01-25 06:56:08
+c15e9a56-7809-4410-b7d8-dd512b9e9cb5,Michelle Fowler,Adidas Ultra Boost,36,254,762,3,2024-09-22 08:18:43
+614918b4-415b-455e-9e9e-bfd1b700d435,Timothy Long,Converse Run Star Hike,40,411,1644,4,2024-11-20 04:38:20
+9b4f836d-25cc-48d6-85b9-617639f62612,Julian Shaw,Vans Old Skool,45,393,393,1,2025-01-26 15:09:46
+3f45143d-cc61-4f8a-a9ed-aab52f979ef7,Latasha Park,New Balance 990v5,36,293,293,1,2024-07-01 23:50:02
+40dbe07b-a690-483d-8509-ea9aa028c889,Jennifer Mcdowell,Vans Sk8-Hi,39,227,681,3,2024-12-30 13:28:52
+25fc36ac-6b42-450d-845c-d35c3b72d9e0,Randy Myers,Converse Chuck Taylor All Star,46,276,828,3,2024-05-10 15:46:19
+9a064755-7b67-4c1b-b3c6-fd947cbafd92,Ryan Bryant,New Balance 550,46,137,685,5,2025-01-23 07:25:18
+441626d2-14a4-4432-822d-9b41771d125c,Shannon Mitchell,Puma Future Rider,36,216,216,1,2024-06-13 12:05:44
+1f205c74-f37a-493c-8c5c-18d5628a1581,Rebecca Howe,Nike ZoomX Vaporfly Next%,37,249,1245,5,2024-03-18 14:45:19
+e757d877-38bb-455d-a655-97c1cda98d77,Diana Andrews,Adidas Samba OG,38,143,286,2,2024-12-18 20:12:19
+b3304779-7004-4b18-b3fb-958954526802,James Walsh,Adidas NMD R1,41,240,720,3,2024-08-28 07:14:31
+8ecedc32-750e-4574-9ee2-c0a2b60c0517,Isaiah Lee,Nike Air Force 1,37,498,996,2,2024-05-01 23:01:14
+7f900c76-e676-47d5-a687-109bf126a646,Laura Boone,New Balance 2002R,41,134,670,5,2024-07-27 01:04:58
+1bfbcb6c-6b46-43fa-bc2a-5cbe782fa74f,Jacob Pierce,New Balance 2002R,47,110,330,3,2024-11-14 22:44:35
+fa43c21a-bf67-4869-a7cd-b54ea1a588dc,Jared Kemp,Nike Air Max 90,42,118,354,3,2024-05-06 04:45:18
+32708ec6-e70b-426b-8356-31eeb5ca6478,Susan Ramirez,Nike Air Force 1,45,207,207,1,2024-10-09 15:01:13
+26a5f3ce-8cb2-4519-a99b-e42c22155337,Stacey Gonzales,Adidas NMD R1,44,334,1670,5,2024-11-23 07:02:18
+fc73260f-a71a-42eb-80bc-f73543e824df,John Williams,Nike Blazer Mid '77,42,337,674,2,2025-02-14 01:08:59
+47ed377a-ea9f-4fa8-a7ee-8239c6764399,Jessica Hall,Nike Air Max 90,43,381,1905,5,2024-12-10 09:26:06
+19767ba8-1dba-4aff-ba83-09836c0ea666,Jeffrey Rose,Adidas Yeezy Boost 350,45,230,920,4,2024-11-24 11:43:02
+1e0a792f-48ee-48c2-857a-c80642a39c4e,Caitlin Garcia,Converse Chuck Taylor All Star,41,161,644,4,2024-11-02 15:06:08
+52ae2734-14df-42c5-9107-f06842d6f734,Kenneth Chambers,Reebok Club C 85,37,213,213,1,2025-01-24 22:23:26
+f940f227-8f8c-478d-a565-e93ed008d6a5,Joshua Jimenez,Nike Air Max 90,41,488,1952,4,2024-05-24 00:59:44
+4ea79519-fc24-424a-9adc-dd79deee9de7,Sarah Hill,New Balance 327,41,317,1585,5,2024-09-27 17:50:10
+bbbb70c0-7925-41b8-b769-a2f1adae14ae,Jamie Bender,Reebok Club C 85,37,362,362,1,2024-02-23 10:18:26
+0132c939-576c-4df3-9100-2af345336a33,Larry Dominguez,Salomon XT-6,38,372,1860,5,2024-06-25 18:47:33
+61760abf-511a-4888-8402-05e9bebd6452,Pamela Glass,Asics Gel-Lyte III,38,487,974,2,2024-07-20 22:14:28
+373ccf5c-b96a-4fdb-b160-cae4c0ad2cba,Joanna Kline,Nike Air Force 1,47,321,642,2,2024-11-15 09:00:03
+0bbd78ca-fcdb-4e69-ae93-8498b04bffe4,Barbara Johnson,New Balance 327,38,255,1020,4,2024-05-18 20:39:14
+3e0d12c9-4fbb-49f5-a8c6-39febd10ed15,Kenneth Grant,Adidas NMD R1,38,452,1356,3,2024-06-28 12:09:08
+4ef25ffb-2b3c-49b1-ad5d-4cd62195a6ee,Lance Reid,Nike Air Max 90,38,116,580,5,2024-03-07 07:30:44
+f4549bfa-de34-4b53-9e4e-d21a35e1ce4e,Tricia Petty,Reebok Club C 85,45,109,218,2,2024-05-27 14:51:12
+9c728301-6f19-4ab0-a06c-3b0c6a4545f8,Jennifer Harris,Reebok Club C 85,46,147,294,2,2024-06-02 19:07:16
+d0a8e50d-4d46-4913-b3e4-c06ae40dc7aa,James Mccall,Adidas Yeezy Boost 350,36,209,209,1,2024-10-03 22:06:25
+ba35060c-2ab3-4d15-a660-ab6d432398e7,Tammy Dillon,New Balance 327,40,258,774,3,2024-05-30 10:05:09
+8e7a4a9c-0d3d-42e7-b8d9-33e89c723c0d,Christy Martin,Adidas NMD R1,44,338,338,1,2024-09-14 08:04:42
+678ee13d-58f0-4335-ae9f-1b1946cb6fd6,Jill Smith,Nike Air Max 90,40,284,852,3,2025-02-01 19:26:27
+95963a39-e5a2-43dc-a3d5-850d4a30b6d5,James Rivas,Puma Suede Classic,42,367,1101,3,2024-07-28 12:23:22
+40133905-3ad8-4a3e-a19e-525c079563cb,Kathy Marshall,Adidas Ultra Boost,36,336,336,1,2024-03-10 21:25:50
+534c1f01-19f0-4f4e-8477-5e8c9a726621,Danny Patel,Nike Air Jordan 1 Retro,39,117,117,1,2024-12-24 07:02:47
+1c9ea2d7-ea64-4aff-9e20-315d06de6484,Jermaine Lopez,Nike SB Dunk High,38,199,995,5,2024-03-19 02:14:46
+35385187-6ab3-4926-a3f4-031d70b4bf93,Patrick Smith,Adidas Yeezy Boost 350,42,311,1555,5,2024-12-01 10:33:10
+a71eaa1f-88ed-43df-90f5-3f53db180b1d,Robert Williams,Vans Sk8-Hi,46,252,1260,5,2024-07-12 00:38:38
+d710342a-f413-4246-a0a6-b98b595012b1,Brianna Ramos,Asics Gel-Kayano 14,46,499,1996,4,2025-01-14 14:09:06
+5c3b28e4-c07d-4b30-84a4-ba135941ea97,Rhonda Hammond,Vans Old Skool,38,352,704,2,2024-03-04 21:28:46
+9c3b6d85-4893-4cad-b6ce-1d4ff16640e8,Erica Thomas,New Balance 990v5,37,429,2145,5,2024-06-16 00:10:41
+eb28d3d1-9583-42c5-98c0-440f8f897c3d,Maxwell Juarez,Nike Blazer Mid '77,43,261,261,1,2024-11-12 14:08:26
+9b204c2e-7948-4bbd-a0f6-27d261ccfada,Adam Gonzalez,Salomon Speedcross 5,47,442,442,1,2024-08-03 04:07:17
+f6d47b95-6d09-4e3a-870a-ab2a41883b60,William Hart,Asics Gel-Lyte III,47,427,427,1,2024-12-15 17:56:06
+c39bc886-71e1-4e57-92b3-bb78597c819e,Lori Martinez,Asics Gel-Lyte III,39,365,365,1,2024-04-30 09:22:07
+3b796844-54c5-4d6c-b493-f4db8050dc06,Linda Graham,New Balance 990v5,38,199,796,4,2024-05-08 00:11:01
+96349f72-fa6b-4c18-8b46-c0c5b49baf4c,William Chavez,Reebok Classic Leather,46,330,660,2,2024-06-30 21:59:09
+e5a2edf1-8a92-4145-8de2-5e0140658752,Paul Carter,New Balance 990v5,40,299,598,2,2024-11-06 13:55:53
+86a45d21-12e9-48fb-b1cd-9e9f63c35afb,Michael Blair,Asics Gel-Lyte III,42,371,371,1,2024-07-27 10:46:19
+0c9ccf6b-b8ea-4c65-9490-e2a650e3c3e3,Tyler Stanton,New Balance 990v5,39,172,172,1,2024-08-20 07:51:28
+03957dea-dca8-4cdc-8c26-324409d664ca,Brandi Snyder,Nike Air Jordan 1 Retro,40,196,196,1,2024-05-20 07:33:41
+9bb980bc-bbb2-407a-b4ec-fd8970fd6bc4,David Brown MD,Reebok Club C 85,38,343,1715,5,2024-12-26 03:03:14
+544cb272-edc8-4f17-bc79-d9d5fcea37d5,Justin Chen,Nike Dunk Low,40,364,1456,4,2024-10-19 10:20:47
+2ac8c916-9e5b-47ac-8d8d-dfbd2645d5eb,Michael Romero,Adidas Samba OG,38,315,945,3,2024-08-28 07:56:18
+785527cb-3bd0-49f6-9226-45ddb0a17fe8,Jennifer Pope,Adidas Superstar,38,339,678,2,2024-04-22 03:41:24
+d62541d7-fed6-4730-9aaf-dc2f1fbe8dcc,Carl Hopkins,New Balance 550,44,320,1280,4,2024-04-03 09:28:26
+37be47a1-8c68-4858-8f73-edecf0359b34,Edwin Rodriguez,Converse Run Star Hike,36,346,1038,3,2025-02-14 14:36:11
+e7fc56c6-4cac-4c3e-9cc5-72a724e450f7,Christina Lamb,Converse Run Star Hike,37,445,890,2,2024-10-18 16:31:42
+43485954-e5b3-4712-8062-8e053b0ad986,Ashley Schaefer,Reebok Classic Leather,47,461,1383,3,2024-11-09 05:55:03
+f50df705-32a4-4f79-afd7-d626a5c05c4a,Justin Lee,New Balance 2002R,43,120,360,3,2024-09-14 13:49:25
+9d5339de-ae49-4538-b4bc-0a0941345bcd,Kristen Knight MD,Puma RS-X,41,413,2065,5,2024-11-30 22:12:50
+3a0436aa-afd1-4b2f-8179-fa0b09f03658,Kara Mitchell,Nike Air Jordan 1 Retro,44,251,251,1,2024-03-24 00:25:53
+a7c45c58-81fa-49ac-a77b-c71b6f25def6,Daniel Simmons,Puma RS-X,39,167,334,2,2024-03-02 04:46:11
+c1848470-39ed-40a3-bed7-23f05c6bfd4d,Mark Ford,Vans Old Skool,47,151,302,2,2024-10-17 13:50:57
+5fb4b8b8-7839-4bfa-9d0b-8c179468d27c,Wendy Rodgers,Salomon XT-6,42,176,176,1,2024-08-31 19:46:05
+4bc0ba9c-bd4e-4094-9c70-444d2d84be17,David Leblanc,Converse Chuck Taylor All Star,37,295,295,1,2025-01-24 13:55:24
+eaf5f629-be75-4d94-bbb8-9558cc628966,Sean Mcneil,Adidas Ultra Boost,39,203,609,3,2024-10-08 17:13:12
+3304ac26-4f7f-446f-a440-24d576024102,Barbara Bell,Asics Gel-Lyte III,38,347,694,2,2024-11-28 03:16:54
+c2db61be-996d-4d0d-b61f-2f8aac4dc8cd,Steven Crawford,Nike ZoomX Vaporfly Next%,37,111,444,4,2025-01-10 06:46:36
+55a88f06-377f-4e6f-9a3e-c2294cfb6de6,Danielle Daniel,Salomon XT-6,42,314,942,3,2024-11-07 07:50:46
+68b69232-e4a8-4127-9a4c-16a471d7a2c1,Patrick Matthews,Salomon XT-6,47,456,1824,4,2024-05-20 01:36:57
+599e012b-dec9-4b15-b698-360e373772aa,Jason Brooks,Nike ZoomX Vaporfly Next%,41,116,232,2,2024-09-25 07:18:06
+29516771-c618-4dad-a6a0-d918a52bf53d,Cole Hunter,Nike Blazer Mid '77,41,453,453,1,2024-09-28 15:52:02
+073fae97-1e0a-4419-81ed-0d43da673499,Nicole Decker,Vans Sk8-Hi,45,457,914,2,2024-07-13 22:48:18
+9676a0ca-6779-4308-b35c-19dd7b11d5b1,Samantha Mitchell,Adidas Ultra Boost,43,278,834,3,2025-02-03 23:12:05
+214a267c-be73-44ad-8e33-544af9fa0b9b,Jennifer Jensen,Asics Gel-Kayano 14,46,290,580,2,2024-10-12 17:02:29
+b8c3bc75-9538-4104-9faf-20577ded7907,Timothy Delgado,Salomon Speedcross 5,42,135,135,1,2025-01-01 08:59:37
+4c8fc89b-6f94-49c0-aaba-787160dc570e,Ashley Gibson,New Balance 327,39,177,885,5,2024-03-20 04:35:56
+5c820ad1-7897-4c11-aeda-8736a3defc00,Charles Pierce,Adidas NMD R1,40,305,1525,5,2024-06-27 14:12:15
+467a983f-9a1c-4bea-8faa-e26a793e5abd,Jeffery Hanna,Adidas NMD R1,37,417,417,1,2024-07-22 03:06:08
+528eacf9-0aa8-46bb-9913-2adfdd8af610,James Downs,Adidas Yeezy Boost 350,46,104,312,3,2024-05-07 18:38:03
+c3494e1b-204a-4ac0-bd21-66ebf0f7b7fb,Derek Thomas,Adidas Ultra Boost,43,170,850,5,2025-02-16 22:03:57
+8724ce25-f98b-4e37-ba2c-42aea6ed2220,Raymond Hall,Adidas Superstar,36,475,2375,5,2024-04-27 04:03:56
+c00cc7d8-0097-4fc1-87ec-8377d67935c8,Marie Quinn,New Balance 990v5,40,174,696,4,2024-09-29 16:41:59
+a515b5af-2417-4c14-8a17-89a9e36e4681,Michael Price,Nike Air Jordan 1 Retro,45,192,960,5,2025-02-14 15:28:12
+caab3f31-5101-4b0b-af27-9c8f0b64789a,Christina Moore,New Balance 990v5,37,339,1356,4,2024-08-27 00:40:59
+d1cf713a-75c1-4fcc-966e-e420918824bf,Zachary Morris,Adidas Superstar,47,466,1864,4,2024-10-17 20:21:46
+0111f29e-4c2f-4365-970c-355e2c638c46,Anna Ortiz,Converse Chuck Taylor All Star,46,463,1852,4,2024-09-13 05:23:44
+c5a5a643-35cd-40c0-9baa-6c7fb55353a3,Kimberly Davis,Vans Sk8-Hi,41,348,1740,5,2024-07-03 07:53:11
+495517fa-2d9a-4b61-9e60-006975dcaea3,Adam Lindsey,Adidas Ultra Boost,36,196,980,5,2024-10-31 07:53:29
+b451bdde-4803-4042-97a5-14016f96f67c,Briana Johnson,Vans Sk8-Hi,37,372,1860,5,2024-10-27 22:33:15
+3f6f5982-d5a8-49ac-8c0d-0143d7c0d138,Marvin Watkins,Nike SB Dunk High,44,419,1257,3,2024-12-27 11:34:13
+107acf34-6cc1-4f4c-a848-424fcb6f935e,Angela Carrillo,Adidas Samba OG,36,345,690,2,2024-04-18 12:53:09
+9c969c75-32cb-48aa-8069-985fe688a1af,Devin Williams,Salomon Speedcross 5,38,473,1419,3,2024-03-09 03:19:58
+1192f821-1e59-4683-98ba-f7c0d7f6ae29,Brandon Gould,Asics Gel-Kayano 14,37,187,374,2,2024-04-20 15:04:36
+f8a9c847-f212-4ffe-84ec-ddf7bd32b1bc,Kerri Rivera,Salomon Speedcross 5,47,405,810,2,2024-03-03 23:18:26
+2eabb089-ad1c-4dfb-abd8-45f8d558b4d6,Holly Crawford,Puma Future Rider,42,222,444,2,2024-11-27 01:00:32
+4e235198-eda9-46e0-9aed-87d46c25029d,Jessica Fox,Nike Dunk Low,37,426,1278,3,2024-04-28 10:12:13
+95c1a969-9c74-4aa4-8d8f-1b32e96b26b9,Joshua Cooper,Nike Blazer Mid '77,37,363,726,2,2024-05-25 02:30:50
+e31137c9-e66c-487b-8d39-8631f81f2ce6,Elizabeth Stanton,Adidas Samba OG,46,126,378,3,2024-11-03 19:48:31
+f24bc3d8-dbd3-4697-80fe-3306a9cffc88,Kyle Finley,Puma Future Rider,37,192,192,1,2024-09-02 01:18:44
+86bb8f4f-24ad-4c98-b985-0fb432170815,Mr. James Mayo,Vans Old Skool,39,284,1420,5,2024-10-29 17:59:20
+7c7518b9-91a3-4894-905f-d70f7a95a187,Allen Barnes,Puma Suede Classic,39,344,1032,3,2024-08-09 15:45:09
+5b9a6d01-919f-4f74-bb82-c57f9d811ca0,Mr. Lance Ramsey,Puma Suede Classic,44,461,1844,4,2024-06-23 23:07:08
+7db931f3-6f22-4caf-b5e8-bd7afa2e4bd3,Robin Davies,New Balance 550,40,284,1136,4,2024-04-11 03:27:03
+fc229b15-d67f-400e-9719-8991ba5b8d0c,Christine Douglas,Nike Air Force 1,41,121,605,5,2024-05-13 08:34:32
+5ab8f4f9-847b-417f-ab7f-ba28c00e666f,Steven Hopkins,Adidas NMD R1,37,332,1660,5,2024-11-16 17:58:27
+930e1507-f88f-4963-949e-0e7fbc55e77a,Tina Brooks,New Balance 2002R,39,251,753,3,2024-06-05 18:19:54
+3dfa0982-2898-47db-9e84-b553a294a844,Douglas Higgins,New Balance 2002R,38,285,570,2,2024-03-19 12:35:43
+68f87b36-47d0-4966-aa63-3986b16a6aed,Katie Hardy,Nike Air Max 90,38,343,1372,4,2024-02-26 08:24:58
+c99ef41d-3ef9-47bf-8e06-74960ea50864,Erica Combs,Vans Sk8-Hi,40,181,543,3,2024-10-29 12:54:16
+37b89375-07a6-4201-bea7-ce72abf1a8c3,Gabriela Franklin,Salomon Speedcross 5,38,479,1437,3,2024-10-13 15:08:01
+0fe6ea51-bdfe-45cc-b949-1bc29cde90c9,Russell Daniel,Adidas Yeezy Boost 350,36,445,890,2,2024-03-24 14:29:34
+0d3a7e76-5453-4a7f-bebb-0322a7748eef,Walter Johnson,Adidas Yeezy Boost 350,39,156,312,2,2025-01-08 10:33:23
+d242cfe4-9235-40b3-b1c1-c94c1e8bf176,Mrs. Jill Morgan DDS,Adidas NMD R1,44,237,237,1,2025-02-02 23:54:19
+2b79728b-67e4-4087-b09d-53b12857e796,Cameron Davila,Nike Air Jordan 1 Retro,36,137,411,3,2024-06-06 14:50:07
+49f377f4-1bcf-46af-823b-ab6debd5dbbd,Stacy Smith,Nike ZoomX Vaporfly Next%,42,125,250,2,2024-11-23 09:47:15
+0212852b-a878-4c80-bcbb-b3bc7d37aac5,Anthony Hunt,Converse Chuck Taylor All Star,36,205,1025,5,2024-04-29 14:25:31
+ccb16795-3b76-49a8-90df-8048198cf98c,Sabrina Barajas,Nike Air Max 90,47,114,228,2,2024-12-05 20:48:26
+d8f56976-c0c2-44a5-a5a0-23bf4a476a37,Corey Price,Converse Run Star Hike,42,390,1950,5,2024-03-01 10:48:09
+8523564c-77b4-41ab-8247-73817f064b00,Lonnie Castaneda,Converse Chuck Taylor All Star,40,336,1344,4,2024-11-25 14:20:01
+3aa53c0d-3f3e-4a72-b32b-4db22f7ec307,Sara Hutchinson,Puma Future Rider,40,269,538,2,2024-05-21 06:58:37
+eea35d38-133b-4e3c-912f-2c7579231be4,Samantha Jackson,Converse Chuck Taylor All Star,43,124,372,3,2024-08-01 11:15:59
+a1fba5c3-eec0-4343-bc4f-21916b1af934,Victor White,Nike Air Jordan 1 Retro,39,368,1104,3,2024-09-25 03:24:29
+dfb3df39-2e24-4325-9cd5-79ed40cc3114,Erin Bates,Converse Run Star Hike,36,351,351,1,2025-01-23 07:55:00
+b8003db3-9509-4dfe-952a-25edc0bb3450,Taylor Johnson,Adidas Yeezy Boost 350,38,219,219,1,2024-11-24 06:00:13
+ef90b51d-3384-4931-8b60-fd4f5f60d63c,Mary Morrison,Vans Sk8-Hi,40,285,570,2,2024-09-11 16:42:12
+344d7ee5-640f-4ac6-8334-44e21f6e0939,Stephanie Anderson DVM,Asics Gel-Lyte III,45,163,815,5,2025-02-18 13:14:24
+306389eb-27b2-4880-9d4b-d17c5baa37d7,Julie Anderson,Asics Gel-Kayano 14,39,394,1576,4,2024-07-30 20:44:13
+08be0ae0-41d9-4c73-a8f3-e562d0066769,John Berger,Adidas Superstar,41,499,1996,4,2024-10-28 20:46:15
+1367feba-6bc6-4729-8020-0354c66c246e,Lynn Gordon,New Balance 550,42,405,810,2,2024-04-05 03:13:54
+4fee7afe-e79e-47f5-8b5f-14e7c63dc9fe,Cassandra Wolfe,Adidas Yeezy Boost 350,44,204,816,4,2024-03-15 16:58:35
+213ca674-425c-41e3-ac0e-cc846859e49d,Mr. Christopher Rangel,Salomon XT-6,41,217,217,1,2024-06-16 10:36:30
+673e06ea-1059-487a-a213-cdaef06583ae,Mr. Hunter Humphrey,New Balance 550,42,391,1173,3,2024-07-01 00:13:31
+f7064aee-c9f3-4131-be5d-34c1c6bca1e3,James Jones,New Balance 990v5,36,462,462,1,2024-03-21 13:08:02
+15a463ca-c046-457b-bdf4-20371164c901,Patricia Montoya,Puma Future Rider,45,294,1176,4,2024-09-25 01:48:10
+ff78e70e-a840-4a76-a26b-c3f941327e3c,Jennifer Molina,Adidas Superstar,37,452,904,2,2024-09-01 00:33:05
+f3b430a7-5863-4145-8a31-2ac2d9806e40,Alexandra Palmer,Nike Dunk Low,45,355,1420,4,2024-04-09 12:46:09
+538be528-80dd-4bc2-b9a9-cb41f58f9317,Lisa Clark,Puma RS-X,45,425,1275,3,2024-03-25 07:23:14
+e45b55ca-1e66-41ea-8a1e-ccd329420bfc,Ashley Brown,Puma RS-X,40,417,834,2,2025-02-08 22:37:37
+1e40cdd4-0ed6-4f0d-802f-c93e72d02c9b,Bryan Vargas,Nike Air Force 1,37,206,824,4,2024-03-29 17:42:27
+9a385454-0322-4288-bbe2-e0aeb36e3a59,Ruth Pitts,Nike Air Max 90,45,485,1455,3,2024-05-18 19:14:56
+f55c28e1-3402-4a55-b258-c7eaa905a471,John Patel,Salomon XT-6,44,241,723,3,2024-12-06 21:53:39
+ece59f15-ac02-4925-9bb5-37219297df5f,Nina Aguirre,Nike Air Max 90,44,151,755,5,2024-05-12 13:29:58
+05513469-b957-4234-8861-a9af973053be,Steven Johnson,Adidas Forum Low,36,430,1720,4,2024-08-17 00:52:51
+9871d668-7760-423a-8064-2565e983019d,Paul Branch,Converse Run Star Hike,40,439,439,1,2024-12-17 14:35:10
+c300d027-7de7-4c66-b7b2-174cc63ae731,Sherry Chan,Puma RS-X,36,449,449,1,2024-10-24 04:01:51
+be370a62-2614-4569-8fd8-32ac916eb272,Kelly Dixon,Converse Chuck Taylor All Star,43,125,125,1,2024-05-06 10:21:39
+e6135ed3-d5fb-4098-9239-340e2578a98e,Crystal Mcclain,Puma Future Rider,47,225,675,3,2024-07-14 05:17:22
+31b25287-9abb-4af4-9a5b-e89f66208c91,April Schmidt,Adidas Samba OG,46,388,1164,3,2024-08-14 06:53:57
+d4acb19e-bc5e-46dc-8940-29f6547c21fe,Cynthia Rodgers,Salomon Speedcross 5,40,267,801,3,2024-06-19 08:48:48
+97209faf-58eb-4b1d-b796-743ab8fc7161,Amy Henry,Converse Run Star Hike,47,167,167,1,2024-06-15 17:23:55
+3a6b662c-14ea-4253-8e0f-b7a5a77d26e9,Laurie Brown,Adidas Samba OG,37,262,1048,4,2024-10-24 04:23:34
+517a1e3b-076b-4842-8dce-e49c27adb821,Jeffrey Robinson,Salomon XT-6,41,226,452,2,2024-09-10 19:59:01
+52b10315-9e73-4426-bc8b-b661f07fe226,Michael Palmer MD,Salomon Speedcross 5,46,377,1131,3,2024-08-15 08:07:08
+5727caad-96b2-4b29-ad29-a823176340c8,Craig Rogers,Adidas Yeezy Boost 350,39,351,1755,5,2024-07-28 00:50:54
+c30fa3aa-8fb0-4b1a-83b2-2d6996e4c7e3,Jim Campbell,Reebok Classic Leather,37,216,648,3,2024-10-29 13:30:04
+80051f0a-3eaa-4af4-a1a3-05327c77c5c5,Jennifer Edwards,Nike Air Jordan 1 Retro,42,332,664,2,2024-12-10 09:56:21
+856a27a9-1d83-4d10-810b-3c8737f60ca3,Dennis Harris,Nike Air Max 90,40,143,286,2,2025-02-13 12:26:22
+2b3e6e7f-6b92-465c-a531-0be465ebaddd,Michael Robertson,Nike Air Max 90,37,230,920,4,2024-12-04 14:27:13
+20fcf742-3e0a-48bb-a361-7cba9878680a,James Shepherd,Vans Old Skool,44,230,690,3,2024-04-11 05:13:24
+82bffe04-bdbd-476d-b42f-0454d74f6be0,Melissa Hill,Adidas Samba OG,44,304,304,1,2024-12-26 20:41:47
+9560725c-4046-44e4-8836-7dd570709c36,Mark Johnson,Nike ZoomX Vaporfly Next%,46,442,1326,3,2024-04-18 23:53:03
+8c55a49d-073a-4511-878a-ff22da10cc2b,Troy Park,Adidas Yeezy Boost 350,36,100,200,2,2024-10-27 02:23:15
+85163792-93ef-4834-ab87-9afcb2f9919e,Rodney Williams,Vans Sk8-Hi,39,440,880,2,2024-02-23 19:41:26
+1e8c7537-46f3-4021-aae9-c15d4fda28e0,Anthony Salinas,Vans Sk8-Hi,41,213,426,2,2024-04-16 03:34:25
+af2d7505-c391-4b39-b652-257e88600bc0,Amanda Garcia,Vans Sk8-Hi,38,214,856,4,2024-12-28 00:53:07
+1c653389-80d3-4476-81e5-ff272206bf21,Michael Lopez,Nike Blazer Mid '77,36,488,1464,3,2024-12-05 09:24:14
+fbc7f24b-04ea-4545-82c8-ef1e9a112193,Ricardo Stevens,New Balance 2002R,44,271,813,3,2024-07-17 11:59:49
+6df08bb6-d6fd-4907-ab4d-1dbdbaa95bc6,Jody Flynn,Nike Air Jordan 1 Retro,36,420,1680,4,2024-09-07 02:34:22
+d4b98c60-cd48-4007-9650-34831273e773,Christopher Garza,Adidas Superstar,41,381,381,1,2024-04-23 13:50:41
+6f2f0a7b-5695-4e48-aed9-ceb2e9788aa4,Kelly Nelson,Asics Gel-Lyte III,37,370,740,2,2024-03-19 13:02:42
+ea06cd45-a7ab-421c-8570-db75ad2d3406,Thomas Fuller Jr.,Adidas Yeezy 700,44,108,108,1,2025-01-01 05:40:17
+201888e5-0cb2-4b96-970e-fbd17745fb6b,Lindsay Kelly,Nike SB Dunk High,42,454,454,1,2024-12-01 18:29:25
+651baefc-ec63-42d8-bb87-97674a8cbb5e,Angela Cortez,Puma RS-X,46,354,1416,4,2024-03-20 04:08:30
+71c8e793-8fcf-4fc1-b596-ce5e2cf77683,Clinton Marshall,Vans Sk8-Hi,41,465,1395,3,2024-07-29 08:37:12
+8af957c8-c86f-4d65-b575-4d6e8514d955,Ryan Smith,Nike ZoomX Vaporfly Next%,45,328,656,2,2024-11-29 16:31:51
+3fec2621-3cfe-4f1e-8088-239dc468623c,Paula Jimenez,Adidas Yeezy Boost 350,47,115,230,2,2024-08-29 21:58:16
+099f34a6-ff6c-453b-8cfb-cd9a36ee860c,Sandra Morales,Converse Chuck Taylor All Star,47,285,1140,4,2024-04-11 07:36:11
+5f7c933a-bc6e-4494-bcd7-ba187ba263bd,Brittany Sullivan,Converse Chuck Taylor All Star,36,268,804,3,2024-05-29 16:31:04
+61745428-f497-4946-b6b1-2dd65bb3142c,Justin Davis,New Balance 550,42,462,462,1,2025-02-12 06:53:08
+850d312f-c16b-4dbd-846f-420232a46245,Mark Cooper,Nike Air Jordan 1 Retro,46,190,570,3,2024-08-06 18:04:27
+6c2fdada-9aec-4d88-891a-8e8a2c02342a,Mary Roman,Adidas Superstar,39,114,114,1,2024-04-05 02:00:31
+c0a490cb-d5d6-4603-8f43-ca9536582f88,Jordan Arnold,Vans Old Skool,39,144,144,1,2024-07-26 08:03:24
+556d0e5a-d8ad-418f-a9f8-b7cb229ca4ec,Benjamin Anderson,Nike Air Max 90,41,466,1864,4,2024-05-06 21:52:24
+cc3b23d2-f497-455b-86aa-62767ad74af0,Tina Hernandez,New Balance 990v5,40,424,2120,5,2024-03-09 10:39:17
+11fba57b-b17a-41ea-9141-cfda552ec4a3,Nicholas Cooper,Adidas Forum Low,36,194,776,4,2024-03-28 19:55:58
+ba4ccf2a-ea68-4b38-8f2e-fdf1c5ba411e,Wendy Hull,New Balance 550,39,431,431,1,2024-08-15 23:49:39
+0b0c91bc-0e5d-40b3-b6f0-2e99268faaf4,Zachary Scott,Adidas Forum Low,46,341,341,1,2024-12-28 10:50:58
+465970e9-9fea-40de-b831-1d5926f5daf2,Charles Bennett,Puma Future Rider,45,458,2290,5,2024-03-12 17:50:13
+ce327af9-af1b-4a9e-92d0-c2c60e40955f,Julia Blackburn,Vans Old Skool,39,127,508,4,2024-02-25 21:27:57
+7bb62688-fe1d-4c42-a214-55893f57c6f5,Adam Yang,Reebok Club C 85,41,358,1432,4,2024-08-22 03:57:04
+6f090d7c-ebf3-4b65-81f0-8cd889a90d13,Thomas Brown,Nike Blazer Mid '77,46,278,556,2,2024-05-22 13:35:03
+5d84aa36-866e-4db2-8f94-e82079ce7582,Louis Kim,Salomon Speedcross 5,41,198,594,3,2024-03-21 03:08:16
+3a38a447-f5a7-4839-ba7a-cb8b1320548c,Nichole Carroll,Nike SB Dunk High,44,416,1248,3,2024-09-11 08:05:39
+938e3f7f-36fc-4d5b-a4bb-d573cc2a9828,Justin Jordan,Nike Dunk Low,44,204,204,1,2024-08-21 03:35:03
+0885b145-0b05-4fc7-8a06-076a7ca1b308,Katherine Hall,Puma RS-X,40,199,597,3,2024-04-11 20:31:40
+575896fe-eb86-4828-95ee-5f95e795e5c0,Cindy Gibson,Nike Air Force 1,42,108,432,4,2024-04-27 08:39:48
+c31ffe77-6f4e-4196-8f06-684a00785816,Martin Vargas,Reebok Classic Leather,45,376,1504,4,2024-09-19 19:54:23
+91aba4fa-a2ff-4ddb-a9e4-422cf9ff7862,Courtney Pierce,New Balance 990v5,39,166,498,3,2024-10-02 00:47:20
+fd204958-1b8b-47c4-a38a-91c9326468ac,Ryan Morgan,Salomon Speedcross 5,44,240,960,4,2024-07-17 21:06:26
+747a360c-e85b-4ea6-acf5-98b144d8fccb,Joseph Harper,Nike Air Max 90,42,298,596,2,2024-08-11 16:00:56
+8816e2d2-fd4c-4c11-944b-fdd8790dc3f0,Makayla Le,Salomon XT-6,41,213,1065,5,2024-11-08 21:36:30
+11ab6d02-e130-4204-902c-78605a753d5e,Audrey Campbell,Nike ZoomX Vaporfly Next%,36,319,1595,5,2024-12-06 13:27:19
+4df3d5f6-a8b3-42c4-9258-4b4f86d58e3f,Mr. Logan Jenkins,Puma Future Rider,47,302,604,2,2024-06-17 20:10:29
+0fe8af7e-542f-41f2-b846-5610f6ffbae0,Ashley Morales,Adidas NMD R1,39,483,966,2,2025-02-08 11:33:46
+e10e2d18-b46a-4725-b3dd-629829d33363,Rebecca Thompson,Puma RS-X,46,343,1372,4,2024-03-18 19:20:24
+77d6dc40-8676-4011-97d7-1ede5a5841bd,Eric Williams,Asics Gel-Kayano 14,45,480,2400,5,2024-05-08 09:52:03
+ab14dfeb-db69-438e-b90a-b08e64f45013,Beth Carter,Salomon Speedcross 5,37,263,1052,4,2024-06-14 22:14:49
+ebd7c2c5-f1ce-4416-8617-7128195a2ac3,Jenny Ward,Vans Old Skool,37,493,1479,3,2024-05-21 04:24:36
+62a01a49-a2e9-4a2b-b372-e31ac03d4b69,Mackenzie Sims,Puma Future Rider,41,306,1530,5,2024-05-09 20:24:17
+515875d8-5183-4304-8ead-cdafb1fe1f4f,Stephanie Spencer,Adidas Forum Low,41,445,445,1,2024-12-15 14:55:28
+909c1a1c-efd6-45aa-aa01-db8c6ac9ea73,Austin George,New Balance 327,36,419,419,1,2024-07-01 09:33:34
+67190347-b8d6-4fc8-8b8f-63208086a55c,Adam Lopez,New Balance 550,39,443,1329,3,2024-11-30 09:36:24
+4ad04a9d-dcfd-4472-adc0-ac9aed8775f4,Rachel Grant,Adidas Ultra Boost,47,139,278,2,2024-03-09 14:34:58
+c1a27cfc-8578-4c8b-8257-1f1d2e859dc9,David Taylor,Puma RS-X,43,493,2465,5,2024-08-08 12:47:27
+43d35862-95b3-46cd-b2cb-7d98342abbbf,Cheryl Lamb,Vans Old Skool,38,116,464,4,2024-06-15 06:30:24
+31856b58-2e84-4a07-92c7-b8722e55c936,Benjamin Kennedy,Adidas Yeezy 700,42,180,900,5,2024-03-08 11:11:15
+90ed9355-e9b0-4b1e-b24c-14c4b3a71e62,Carrie Gonzalez,Converse Run Star Hike,38,495,1980,4,2024-09-28 05:34:37
+17a39f35-55d6-4b42-a5c1-16c7c2b5e3bf,Courtney Lane,Adidas Superstar,36,217,434,2,2024-12-18 07:28:48
+1dc20b2b-6eb8-41f6-97a4-3b869f9c4f51,Ryan Riley,Puma RS-X,45,311,311,1,2024-07-30 01:06:35
+44ba0422-1f5a-4ea5-80c7-07e172ae4007,Hannah Fisher,Adidas Yeezy 700,37,194,194,1,2024-12-21 00:24:04
+da8909d1-822e-4c25-a6fa-6b9792eefb53,Pamela Wolfe,New Balance 2002R,44,484,968,2,2024-05-31 18:33:54
+9465a3ba-149d-48b8-8048-42e9afb0202e,Jorge Gaines,Nike Air Jordan 1 Retro,37,271,542,2,2024-03-25 06:29:20
+a0a50cde-b132-4152-a9db-986d3330bf23,Kimberly Rhodes,Vans Old Skool,43,135,540,4,2024-09-27 14:19:01
+0519b509-bbb4-4a6f-b34b-69255e486de5,Isaac Mckenzie,Nike Air Jordan 1 Retro,36,113,452,4,2024-05-03 07:46:43
+b7ff9dfa-bbdd-4d3f-9595-394c3ca82ff2,Jonathan Smith,Puma Future Rider,40,452,452,1,2024-06-02 01:30:27
+05e7fca9-f3f2-4848-adaf-89afec350368,Ashley Johnson,Adidas Ultra Boost,43,361,722,2,2024-10-12 00:11:44
+1239ced1-99bb-4e60-9c08-2334f470c87e,Lynn Frey,Adidas NMD R1,45,360,720,2,2024-07-24 02:18:07
+ba5e4335-a1e6-4fb0-9f6c-a57a854d9476,Thomas Cole,Nike Air Force 1,41,365,365,1,2025-01-28 03:38:09
+485d7eac-f4fc-4d7d-80e4-add94dcb3e23,Steven Lane,Nike Dunk Low,47,225,1125,5,2024-04-11 02:32:43
+2711c7df-4905-445f-a6ee-69d3cf72a05a,Jamie Butler,Nike Air Force 1,41,413,1652,4,2024-05-13 09:21:01
+b17d2f44-cdc3-4a89-829e-609d58a77e98,Joyce Reed,Converse Chuck Taylor All Star,40,250,1250,5,2024-06-30 23:02:39
+e100a902-8b29-41f2-8afe-7c22691237f8,Gary Rivera,Puma RS-X,41,374,1496,4,2024-09-10 10:07:39
+19e12b9f-226a-4ac6-a947-87049af74280,Laurie Stone,Adidas Yeezy 700,36,427,2135,5,2025-02-16 16:05:27
+70e1f4d4-e15e-4d53-8144-3b05df627d94,Ashley Lee,Nike SB Dunk High,45,376,1504,4,2024-02-26 15:00:25
+364742ab-518b-40e9-9255-1671096df414,Katherine Gomez,Converse Chuck Taylor All Star,38,242,1210,5,2025-01-13 01:44:10
+06b8c910-3554-482c-8b8e-212b9dcc9982,Heather Barnes,New Balance 990v5,47,152,608,4,2025-02-16 11:56:29
+bd7c0151-9862-43db-a56b-b5d62cd9edcd,Diana Hooper,Adidas Forum Low,40,382,1528,4,2024-08-21 19:56:52
+a6441a0f-a2af-4bf7-a9bb-4086f2f14854,Jennifer Webster,Puma Suede Classic,41,137,411,3,2024-05-13 02:08:40
+fb3fbfd8-d7c6-41fd-8991-447104eaaa65,Kirk Lawson,Nike Air Jordan 1 Retro,39,290,1160,4,2024-03-12 09:38:10
+b9beda00-df28-4e6d-a3cb-48e598a0d241,Jessica Miller,Puma RS-X,36,263,1052,4,2024-05-21 22:24:18
+19d3bdcd-2e39-4586-b100-5cb35b6c23bc,James Douglas,Nike Air Max 90,38,239,1195,5,2024-12-05 13:43:53
+c62cdcb9-c0a7-4438-b95d-3704b1e18322,Daniel Mcgee,Nike Blazer Mid '77,42,263,789,3,2024-11-17 15:40:41
+eae46939-0acf-4467-9d1b-bd32c2372870,Anthony Ponce,Nike SB Dunk High,46,281,1124,4,2025-01-02 09:03:37
+142e4477-aced-4b7b-96df-f6fe416ac612,Warren Johnson,Vans Sk8-Hi,38,424,1696,4,2024-03-25 13:41:13
+4def55ef-723d-4984-9aaa-e79d5b3a8940,John Flores,Nike Air Force 1,40,331,331,1,2024-03-02 19:46:10
+640ecae5-8c75-49b9-b490-96ddc2322ac2,Shane Perry,New Balance 990v5,43,188,376,2,2024-06-22 03:22:52
+fa569dc9-04ce-4b76-b200-05f25504a941,Michael Jacobson,Nike Air Max 90,47,500,1000,2,2024-11-29 06:36:54
+eac359b1-2c40-4b69-bb1f-1b8bdb7ad1be,Lisa Miranda,Vans Old Skool,46,403,806,2,2024-03-15 03:42:05
+2f9832c6-ee8a-4db5-b1c4-2d14f014badf,Nicole Delacruz,Puma RS-X,47,248,496,2,2024-05-25 03:08:03
+74b2d427-0f94-42bc-8368-23deecf72c85,Carrie Mclaughlin,Reebok Club C 85,43,438,2190,5,2025-01-06 22:31:23
+15d31b7c-1ba3-427d-b035-54fb195d2484,Richard Cortez,New Balance 990v5,46,344,344,1,2024-03-27 20:24:37
+03a31ead-b49f-4f0a-a2a3-4f2b0ec832f6,Betty Sims,Vans Old Skool,41,103,103,1,2024-04-04 04:03:55
+2aa53bd7-8a17-44d9-9d1f-286f7ee92916,Diamond Ross,Vans Sk8-Hi,40,336,336,1,2024-04-19 04:47:42
+14a6c9f9-6d00-4f53-b357-24f3d5211afc,Kimberly Zimmerman DVM,Adidas NMD R1,45,311,311,1,2024-09-01 11:37:52
+e3592cc6-9209-424a-a860-4fe9308c6c94,Patricia Lee,Adidas Yeezy Boost 350,44,325,1625,5,2024-07-16 03:29:11
+80c673b3-9f81-4ede-bb03-460308801b5d,Benjamin Nguyen,New Balance 2002R,42,315,630,2,2024-12-28 07:24:26
+de8bbce1-1a4b-4eb3-8631-f552f8903647,Mrs. Mackenzie Chavez,Adidas Samba OG,37,477,1908,4,2024-08-26 05:45:30
+5505f458-9726-458c-8c50-a0702eaa647b,Donald Franklin DVM,New Balance 990v5,40,343,686,2,2024-03-18 03:46:23
+5818dec6-c35e-4478-88a6-62fe05565ad0,Jillian Douglas,New Balance 2002R,36,217,868,4,2024-05-06 18:12:35
+db88a124-5d1f-4c46-80e4-7da8262b4e68,Cynthia Cunningham,Adidas Samba OG,42,450,900,2,2024-05-06 22:33:28
+02f1ad21-866a-4cc5-9ee8-9c8e52cefda9,Courtney Reyes,New Balance 550,45,377,377,1,2024-05-21 12:50:16
+d62b26ca-3bfc-4d46-9d54-b836f274e563,Daniel Pena,Salomon Speedcross 5,46,264,792,3,2025-02-04 10:17:58
+1fa752c8-fa33-4282-a3f5-f72d54eabd6e,Wesley Wise,Nike ZoomX Vaporfly Next%,41,421,2105,5,2025-01-12 15:30:19
+1ee43113-7ef0-42f7-8383-7238cf6e944e,Danielle Keller,Adidas Samba OG,39,483,2415,5,2024-07-18 06:46:07
+1417a378-7e6f-440a-86ac-016bf7a74fe3,Jennifer Beasley,Nike SB Dunk High,40,331,993,3,2024-11-01 02:15:43
+0285dea2-42e7-45e4-8e97-9602854f09db,Melissa Sanchez,New Balance 550,36,485,970,2,2024-11-27 00:43:39
+fa743d89-5e08-499b-b31b-a0ee93ec710d,Ronald Lopez,Converse Chuck Taylor All Star,38,271,1084,4,2024-10-26 20:52:26
+3a4bb9bb-fba8-40c1-b2bb-32ecb22a8676,Emma Martinez,Salomon Speedcross 5,43,287,574,2,2024-06-01 13:39:44
+f8cf5a6a-f546-46c1-af10-b445655dce12,Anthony Lewis,Adidas Yeezy Boost 350,45,257,771,3,2025-01-08 00:17:29
+4a9e541d-4a58-410c-add7-4f84a7154981,Kristin Downs,Adidas NMD R1,38,353,1059,3,2024-11-09 18:41:31
+e9f2565f-e7ee-4e89-9ca8-26d69ca02368,Nancy Palmer,Nike Air Jordan 1 Retro,47,105,525,5,2024-09-22 07:06:20
+e9a94859-35c6-4255-9cf5-ad3a8d5ae900,Elizabeth Harris,Asics Gel-Kayano 14,38,401,401,1,2025-01-05 01:52:09
+dd96b7be-f277-4179-a301-0cc5390d9a8c,Kent Moore,Adidas Forum Low,41,242,968,4,2024-10-22 10:38:25
+0294c729-9e7d-4aeb-bfac-f5f069abc679,Antonio Sims,Adidas Ultra Boost,47,228,456,2,2024-09-05 09:31:08
+8685215f-2143-4f70-b091-fea49bc2ac95,William Wells,Nike SB Dunk High,45,261,522,2,2024-12-11 09:35:06
+2dc3f60a-dabd-4e3a-8576-1348b10dc4a0,Matthew Rodriguez,Asics Gel-Kayano 14,44,366,732,2,2024-04-08 09:27:52
+6a0eb1ea-138b-4675-832b-fdf79185ec09,Ashley Jones,Puma RS-X,36,417,1668,4,2024-08-13 06:13:06
+4a4f2275-0adf-4827-bcd0-e78396106ded,Michael Rogers,Converse Chuck Taylor All Star,42,230,690,3,2025-01-22 21:46:24
+d2041705-15ac-42d8-904c-247a6c726c10,Elizabeth Wilson DDS,Adidas NMD R1,39,349,349,1,2024-05-04 21:58:08
+6a71e179-0d99-4d49-8efd-8abca87d9b5c,Mary Howard,Vans Old Skool,47,379,1516,4,2024-02-29 15:15:46
+36f3249d-be39-4a53-a54b-f82273bfd6a5,Susan Barajas,Nike ZoomX Vaporfly Next%,38,273,546,2,2024-03-30 15:29:38
+8602b955-a350-4f08-bfb1-ff00250bf74c,Angel Lewis,Vans Old Skool,41,423,2115,5,2024-10-01 02:21:14
+94366ca9-67ea-448c-94cf-6c67a41bd304,Kelly Hernandez,Puma Suede Classic,36,394,788,2,2024-07-21 00:54:20
+36a7ca8d-da77-4438-a38b-cb2b25bf2ffd,Matthew Macias,Nike ZoomX Vaporfly Next%,36,136,408,3,2024-07-23 00:14:58
+77932414-7119-4d8d-a518-2a6249d73c08,David Patel,New Balance 2002R,47,237,711,3,2024-12-29 04:27:55
+dc95d186-3fe6-4ba5-8656-49eca230d4f5,Lauren Arnold,Nike SB Dunk High,46,290,290,1,2024-03-02 08:24:45
+fe42ebf9-01c1-43e9-b830-b94276864fef,Joanne Alvarado,Vans Old Skool,37,413,1652,4,2025-02-03 14:19:03
+48195101-047e-45f1-8212-b76bd74b6a97,Cynthia Case,Adidas NMD R1,45,425,850,2,2024-04-24 04:57:40
+e4af4b69-63ec-4b0c-bd14-120025f1ac6f,Johnathan Barker,Nike ZoomX Vaporfly Next%,44,351,351,1,2024-05-16 20:35:07
+d4706b54-59be-41a7-a626-1453e46dff81,Stephen Hill,Puma Suede Classic,47,489,2445,5,2024-06-04 02:22:43
+ca3ff74f-05b2-4927-aecc-96e0f66b5c2e,Patrick Diaz,Asics Gel-Lyte III,46,477,1431,3,2024-09-03 16:44:59
+111d9680-31dc-4b26-86a2-3ec5bd88ac7b,Jeremiah Blackwell,Salomon XT-6,38,490,1470,3,2024-11-04 09:45:45
+70952d0a-4ab7-4048-b768-a5d667ffb9b2,Shannon Brown,Puma Future Rider,42,290,870,3,2024-02-25 03:39:06
+e1039f8e-93e7-40c0-84d3-6e755e7ffd68,Steven Sherman,New Balance 2002R,41,308,924,3,2024-03-31 22:21:39
+7045a44f-f061-4285-9af1-1875f25b8964,Adrian Williamson Jr.,Nike Blazer Mid '77,46,313,626,2,2024-03-04 20:31:32
+c9891f3f-33f6-4316-a737-1e323fe10e21,James Ferguson,Adidas NMD R1,47,217,1085,5,2024-09-14 04:17:56
+07838992-aa3d-4a5f-9ef2-65f8603a9acb,Anthony Roman,Nike Blazer Mid '77,41,181,543,3,2025-02-20 21:54:59
+8c3def69-691c-4757-bde3-6a5243954452,Holly Weaver,Adidas NMD R1,38,181,905,5,2024-05-30 03:05:13
+afb8c39d-358f-41af-a07a-44925912e6e4,Christopher Evans,New Balance 990v5,44,308,924,3,2025-01-26 16:17:12
+e9ffee2f-6ceb-4e19-a23f-4c1957e0efdc,Robert Davenport,Converse Chuck Taylor All Star,39,107,321,3,2024-05-30 01:32:10
+2853726d-f533-42dc-886e-006f37bf660b,John Garrett,Nike Dunk Low,47,312,624,2,2025-01-19 21:48:06
+8b9b4dcf-d9da-4cf1-ba82-b7066a36c708,Stacey Alexander,Salomon Speedcross 5,36,488,1952,4,2024-06-19 23:12:35
+276d21cc-b3c5-4f64-8bed-492ea71fb98e,Katherine Vance,Adidas Ultra Boost,47,247,1235,5,2024-11-10 01:05:44
+c7985557-8744-4e13-ab89-a233c1e21b92,Bonnie Martin,Reebok Club C 85,43,389,1945,5,2024-03-11 18:38:06
+656b0c80-37ca-4713-830e-6de8c62f0b57,Christopher Johnson,Adidas Yeezy Boost 350,36,317,634,2,2024-02-22 20:47:26
+74b159c8-6201-4cd3-9b23-b21f8285b337,Robert Kelly,Nike Air Jordan 1 Retro,45,420,420,1,2024-07-27 20:00:09
+e230ea4a-a6ea-47af-83ca-6f12b709b968,Andrew Alvarado,Adidas Samba OG,44,169,507,3,2025-01-17 07:34:00
+f5b66473-ebf0-4d83-b837-10f992c6a16d,Deanna Anderson,Nike Air Jordan 1 Retro,40,268,536,2,2025-01-28 04:19:03
+9b41732c-4a47-4ad1-9fa2-82c3d129c8df,Grace Cunningham,Puma RS-X,43,145,290,2,2024-07-03 01:52:34
+eb9a748d-49d4-4dc4-9ae2-3433c3d09bf8,Rickey Long,Adidas Forum Low,44,154,770,5,2024-04-23 21:34:41
+2edbce17-a0b1-40a1-8651-f6a071752319,Thomas Cobb,Reebok Classic Leather,37,422,2110,5,2024-03-17 00:50:21
+08e07767-cd49-4793-8c50-cc6bf19fdc6e,Andrew Sanchez,Reebok Classic Leather,38,121,363,3,2025-01-06 13:25:55
+3dc39f4c-cf96-4b5c-a643-a37bb2f349f0,Andrew Erickson,Converse Chuck Taylor All Star,46,364,1820,5,2024-11-09 01:52:15
+37246f6e-786d-436d-841d-0e1a356dcf8c,Donna Thomas,Puma RS-X,47,214,642,3,2024-12-10 09:30:05
+52578176-243b-4a72-ba0b-78809068d9f3,Dawn Gregory,Puma Suede Classic,36,122,488,4,2024-03-01 10:34:02
+b13cf95d-1cae-4f37-ac4f-e27d1b89cbee,Emily Carroll,Nike Dunk Low,39,151,755,5,2024-06-19 07:26:22
+e9d1a25b-54ac-4c70-a092-4057dfe690be,Kristen Sanchez,Nike Air Force 1,38,250,500,2,2024-06-05 19:57:29
+55ccaf34-74d6-4f10-b527-63d5f82d207b,Michael Gibson,Converse Chuck Taylor All Star,37,323,969,3,2024-09-11 02:07:24
+f86fe5a3-0357-405a-8a6d-f741709930ee,Nathan Reynolds,Asics Gel-Kayano 14,46,354,1416,4,2024-04-14 12:08:07
+634a14a7-5004-4907-8e5f-8c0ef614fd73,Brandy Mahoney,Nike Air Force 1,37,401,1203,3,2024-12-19 14:32:36
+03633308-85db-451f-a367-a2828f3f0d1a,Mary Pope,New Balance 550,45,498,996,2,2024-11-22 05:09:04
+2595d1c8-0440-4bf7-ad68-0794bb200dbb,Timothy Rivera,Converse Run Star Hike,40,314,1256,4,2024-08-27 05:10:20
+d1f35f6f-4f11-4f71-ba3a-0d9458b6aabe,Kelsey Grant MD,New Balance 2002R,41,361,722,2,2025-02-11 02:05:19
+9718e6c9-bea2-40b6-86f8-d63eea81f758,Steve Oliver,Asics Gel-Lyte III,42,292,876,3,2025-02-11 22:21:47
+c52a727b-1668-49c3-8cf9-971d48155115,Cassidy Evans,Nike SB Dunk High,46,379,1895,5,2024-06-28 09:28:42
+79504c51-4784-447a-88ab-1011df9595f3,Shelly Beck,Nike ZoomX Vaporfly Next%,47,346,1730,5,2024-05-02 14:25:13
+f0fec662-3ad2-4e33-8391-2eeecef21c06,Kelsey Hamilton,Nike Air Jordan 1 Retro,37,172,172,1,2024-05-19 18:49:58
+e9bfd585-8bbe-4c73-8053-317210701486,Amy Torres,Nike Air Jordan 1 Retro,45,214,1070,5,2025-01-20 16:18:41
+72d804b0-9c14-4e2a-8b72-33184191e202,Andrew Smith,Nike ZoomX Vaporfly Next%,37,107,428,4,2024-07-08 20:03:04
+4da70f70-9570-4cb1-a3d3-3ebfab9f6893,Amanda Davis,Adidas Samba OG,44,181,362,2,2024-06-15 08:46:33
+39d1b393-10e1-4dd4-8785-da506380d65a,Tracy Martin,Salomon Speedcross 5,38,344,1376,4,2024-05-02 08:28:50
+12a8a5a4-be18-4be6-83a3-d04834d30fdb,Sonya Smith,Salomon XT-6,37,436,1308,3,2024-05-02 06:46:02
+94a5495e-ebfa-4f73-99a3-2b65ddab2c4a,Rebecca Mcfarland,Nike Air Jordan 1 Retro,41,285,855,3,2024-09-07 10:01:59
+e5326ee4-b963-4ee5-b2b8-ac01c7b8d1a3,Clayton Diaz,Nike Air Force 1,47,427,2135,5,2024-03-19 20:14:55
+7d51629f-61c9-48f8-a4f8-f6a8b71adbde,Jeanne Salazar,Salomon Speedcross 5,47,491,491,1,2024-06-14 01:55:46
+4fd5d349-c479-4aa9-9f6a-6449aa013da4,Samantha Mitchell,Vans Sk8-Hi,39,207,414,2,2024-10-06 03:32:53
+f4f843b8-8b9f-4291-92fd-d91fcdd8f3ce,James Cooper,Reebok Club C 85,37,462,1386,3,2024-11-02 20:37:51
+7f968c82-60c5-4725-a9a4-139c6bb91a69,Joshua Mata,Asics Gel-Lyte III,39,117,117,1,2024-06-13 15:08:41
+9598a108-b2e5-49ad-82ed-91f3422ea0f9,Scott Griffith,Nike Blazer Mid '77,41,189,378,2,2025-01-21 14:51:24
+7aec72b1-45f6-4ae7-b817-554879365f27,Caitlin Walker,Reebok Club C 85,43,184,552,3,2024-11-27 20:34:47
+b0e5463e-36a1-4487-bcc8-c5ac68a47aea,Zachary Alvarez,Salomon Speedcross 5,46,379,1137,3,2024-12-12 09:02:53
+4d06111d-f857-4337-9ff5-0805bca54377,Jennifer Sellers,Nike ZoomX Vaporfly Next%,38,395,790,2,2024-05-05 13:27:36
+295de33e-cb0d-4678-a8bc-94b6f960677b,Jason Daniels,Vans Old Skool,43,398,796,2,2024-07-04 03:40:13
+20189e98-4381-4130-9f8d-3ce3ec97a132,Amber Hayes,Nike Air Jordan 1 Retro,42,397,794,2,2024-06-03 00:44:51
+82ba087d-4990-4a83-a65c-4dbcc8b6a723,Matthew Hill,New Balance 550,46,432,1728,4,2024-07-13 00:22:32
+49f6a1bc-1c31-423b-855e-8f64e9be7cea,Aaron Macdonald,Nike Blazer Mid '77,37,475,1900,4,2024-11-24 13:42:23
+6483ea00-34be-483b-9129-fe5304446465,Hannah Mayo,Adidas NMD R1,37,256,1280,5,2024-10-02 04:39:53
+c9cb3388-451f-49e9-8ac4-a49896d499b2,Nicholas Johnson,Vans Sk8-Hi,47,231,1155,5,2024-12-26 14:40:39
+aec010bb-4e0e-461a-afaa-bc7db044bf39,Sarah Frazier,Nike Air Max 90,45,400,2000,5,2024-10-20 12:45:32
+f2214b1b-de71-48b1-83f0-d100e5556019,John Velez,Nike Blazer Mid '77,46,375,1500,4,2024-07-25 03:01:22
+a2237271-5b61-400d-9056-5567b8f716e0,Ashley Gardner,Adidas NMD R1,42,385,1155,3,2024-12-12 23:03:31
+66bc1bd7-9889-4524-8efa-3dc8c7169a32,Julian Bowen,Puma Suede Classic,41,479,958,2,2024-06-11 20:01:35
+5e2dd050-b0c1-4978-a847-86fef8731413,Kristen Watson,Adidas Yeezy 700,37,259,1036,4,2024-05-06 06:42:47
+d1bde06c-4a10-4953-9d01-6c980240053b,Amber Lara,Vans Sk8-Hi,43,403,403,1,2025-01-03 01:48:17
+eb981d2d-d5dd-4b13-96e6-355fc40f1649,Brian Collins,Reebok Club C 85,42,230,920,4,2024-02-27 21:51:00
+da503b10-c149-42a7-8bc6-60e3631471df,Christina Padilla,Adidas Ultra Boost,37,487,487,1,2024-10-01 09:54:28
+28c9c56e-2dce-4f41-9f4a-d27779183c73,Andrea Jones,Salomon XT-6,36,295,1475,5,2024-02-27 12:53:15
+950f6aba-689d-466f-a50c-2f336641a40b,Mrs. Wendy Gutierrez,Converse Chuck Taylor All Star,41,411,1233,3,2024-11-13 13:02:25
+327c2bfc-c96a-4422-bf83-41a605e8e3b7,Vickie Flores,Nike ZoomX Vaporfly Next%,37,494,1976,4,2024-11-14 06:13:46
+ba717325-8172-4936-b7ed-2493fc34b6c4,Theresa Perez,Reebok Classic Leather,45,479,1437,3,2024-03-09 03:18:01
+40e98bd0-a426-4c6b-9fe0-ef83f5484c76,Sean Bell,Reebok Classic Leather,42,411,1644,4,2024-06-15 15:18:42
+c5eeb5fd-ebf3-46f7-8816-a28328ffe0ba,Pamela Davis,New Balance 327,38,387,1161,3,2024-04-10 05:12:08
+897d03fd-6792-4449-a368-b8170b2e96b6,Mary Hutchinson,New Balance 990v5,44,348,696,2,2024-05-11 23:25:02
+b836d151-d057-4ea6-92d1-7dbe4fb8121b,Ryan Price,Adidas Samba OG,47,142,710,5,2024-11-26 00:04:32
+d8d6eaa1-b463-4f75-9ac7-d08e55f6de2a,Jonathan Johnson,Adidas Samba OG,47,405,1215,3,2024-03-25 06:52:19
+038fb34a-b85e-4a1f-ac39-1f86ad435bb0,Jennifer Wilson,New Balance 327,36,449,1796,4,2024-09-12 15:28:37
+bd96303b-8d2f-4e39-b8e6-f2570fbf77bf,Crystal Keller,Adidas Superstar,45,238,714,3,2024-07-10 08:49:05
+35ff21dc-1d4b-4ae7-bdc0-35f74f99f6cb,Matthew Lawrence,Adidas NMD R1,42,216,216,1,2024-04-28 08:46:32
+13cd4d64-b162-4a11-94f7-41731ecc34da,Gina Krause,New Balance 550,39,369,1476,4,2025-02-09 11:20:31
+d38b1a4b-eb9e-42d3-adb1-4cf30f7d105f,Danny Myers,Nike Air Max 90,42,172,344,2,2025-01-26 02:45:32
+ad93e0a5-54cb-40fe-8b1a-28bcfd1c4810,Rebecca Wilson,Salomon Speedcross 5,46,362,1086,3,2024-11-25 23:07:12
+6b50131b-dc81-4f47-aaf7-0f0ac0445fcf,Alyssa Valdez,Adidas Samba OG,36,101,404,4,2024-07-29 03:19:29
+eeb35926-9480-4090-8ce7-34611c67ddd0,Patricia Woodward,Puma Suede Classic,40,212,848,4,2024-11-09 18:36:55
+2d3b6b01-a8f0-4154-bd15-4089470159dd,Kyle Gordon,Adidas Yeezy 700,43,148,296,2,2024-06-17 08:55:52
+3cfee667-c920-4b71-979b-4c6657be614c,Cody Smith DDS,Adidas NMD R1,38,123,615,5,2024-03-06 08:57:22
+4cb1884c-4f26-4b31-8a7b-4e673e6433f3,Taylor Robinson,Adidas NMD R1,47,263,789,3,2024-09-27 23:13:56
+90c266b0-4d8c-427c-b32a-a5aee0b303f7,James Robles,New Balance 2002R,39,110,220,2,2024-03-01 21:16:50
+5fcd02f5-30f8-4ae1-9e51-a91487457a7f,Kevin Little,Nike Blazer Mid '77,39,239,239,1,2024-07-22 08:33:04
+9b66b413-e448-40de-afd9-556779295732,Philip Knight,Converse Chuck Taylor All Star,36,252,504,2,2024-10-24 07:27:01
+6a779805-bb0c-41e6-957c-bf4aa9656677,Ann Hernandez,Nike Blazer Mid '77,46,387,1935,5,2024-05-14 20:52:17
+dc02e521-fb45-4209-95d4-5f0a3f65681c,Holly Turner,Puma Future Rider,46,346,346,1,2024-03-23 00:51:55
+3c0e9557-8cd7-446f-9ede-931490c87cb7,Michael Ortiz,Adidas NMD R1,42,335,670,2,2024-09-17 20:32:13
+7261b907-7f43-4765-aa90-ff3c9b1a88f0,John Stuart,Salomon XT-6,47,434,1302,3,2024-03-26 17:09:23
+94e00ea8-4e1a-4171-aff3-2d7bbbcdfaec,Jamie Smith,Nike Dunk Low,38,319,957,3,2024-07-07 09:23:21
+186da2d6-c8b6-4841-a6bc-69173a63ddc7,Jean Wolfe,Reebok Classic Leather,38,229,687,3,2024-04-03 19:16:34
+ee5632c4-fcfa-4f20-b0c7-5cebfd6bafd8,Warren Nguyen,Adidas Superstar,42,419,2095,5,2024-11-02 11:08:06
+ae7d8f1a-1e2a-4111-9bf6-a3653efceebf,Kimberly Hudson,Nike Air Max 90,37,215,860,4,2024-12-31 15:21:51
+e5120f94-1b8d-42c2-a0be-2f8527a36630,Roberta Snow,Nike Blazer Mid '77,37,331,1655,5,2024-05-12 18:39:43
+5691fc2a-5ca8-420b-b84e-51c682d7242b,Robert Edwards,Nike Air Max 90,40,370,1110,3,2025-01-27 14:02:09
+fd0cb681-bfeb-49fa-8f4f-f86d294f3b8c,Evelyn Hernandez,Puma RS-X,44,110,220,2,2024-11-28 00:37:42
+617265bd-9d24-49a0-a421-46e16a823487,Daniel Duran,Reebok Classic Leather,46,334,668,2,2024-10-27 22:08:18
+f6e107ec-2d1b-420c-b7d7-d475eca2597c,Sarah Johnson,Salomon XT-6,42,185,925,5,2024-05-22 16:49:06
+f093a6c6-f9d3-4ff9-ba59-420df1184fec,Edward Acosta,Nike Blazer Mid '77,39,413,413,1,2024-07-11 04:15:59
+eebf2182-4a6c-4f71-9005-f80b7b48beed,Mr. James Taylor,Adidas Yeezy Boost 350,41,248,248,1,2024-08-05 16:06:16
+9ce57f48-1de9-4fad-acf2-32141388ae43,Blake Morgan,Nike Air Jordan 1 Retro,47,397,1588,4,2024-02-24 03:33:54
+6cfbe5a7-5356-4668-a0aa-f0a2e0a988c6,Dr. Lauren Olson,Adidas Superstar,47,220,440,2,2024-10-27 05:24:19
+cece0858-4553-49e1-affb-aa43a2c0f690,Andrea Lawson,New Balance 2002R,41,400,1200,3,2024-12-18 17:03:13
+b8fedcb8-740d-478a-b90d-4bc1ebe4d4a8,Amanda Lin,Vans Sk8-Hi,39,151,151,1,2025-02-08 06:16:20
+278feddc-9666-4641-a967-60de238684e1,Lauren Miller,Nike SB Dunk High,45,208,208,1,2024-03-13 09:12:50
+d66e133e-a917-404f-bf02-36c35722434b,Linda Hall,Reebok Classic Leather,41,397,397,1,2024-05-02 13:05:17
+889a654a-d633-404d-a07b-5c501f35aa47,Carlos Gibson,Nike Blazer Mid '77,47,168,672,4,2024-09-20 22:50:13
+fbf96d4d-40df-46be-ae42-cb256c9b280a,Karen Scott,Vans Old Skool,40,249,1245,5,2024-07-02 13:38:59
+c0a93355-63d6-476c-8fe6-7fce23b1ae02,Tami Maynard,Converse Run Star Hike,38,171,513,3,2024-12-24 13:20:57
+5914d563-a940-4c0b-bf85-a9ffa06ece96,Stephen Dunn,Adidas Yeezy 700,37,117,468,4,2024-08-19 10:06:57
+c1ee8d52-cfe2-4855-87d2-20a074369eb8,Brandon Alexander,Adidas Yeezy Boost 350,45,203,609,3,2024-10-31 06:16:15
+da66fba5-2e94-481d-8ef9-9ec923a76ab0,Tina Hayes,Salomon Speedcross 5,36,374,374,1,2024-12-31 11:46:09
+100cf853-089d-4b42-9735-853802c56903,Larry Ramirez,Puma Suede Classic,47,374,1870,5,2024-04-01 20:56:05
+580b19ed-1776-43c8-9812-0b8f37c83471,Michelle Gilbert,Nike SB Dunk High,37,356,1424,4,2024-03-30 00:48:00
+1b1a1660-e0df-4d77-b18c-7640d87ea9f7,Eileen Hayes,Reebok Club C 85,40,286,858,3,2024-07-01 03:25:57
+a68bbf78-ebb3-4e18-8661-d3f6c3ff19d5,Holly Cameron,Nike SB Dunk High,47,215,430,2,2024-10-30 05:47:59
+298acbb6-d8a2-45f5-9d72-4d880c756ec6,Emily Henry,Adidas Forum Low,43,143,715,5,2024-05-01 21:23:32
+ada77d58-7bf5-479e-8732-648ce1437dbb,Mitchell Jenkins,Vans Sk8-Hi,42,287,574,2,2024-07-06 23:17:50
+9b0469be-7b3f-47f4-9168-390efaeee28d,Douglas Rivas,Salomon Speedcross 5,38,285,855,3,2025-02-18 07:33:46
+64416c71-3864-4eac-8cdc-f85fee392555,Suzanne Patton,New Balance 990v5,41,472,2360,5,2024-09-08 14:41:47
+7c832ffa-a864-4cc8-ad3d-a94a431617ec,Tammy Jefferson,New Balance 2002R,45,247,1235,5,2024-10-27 23:31:08
+c84cbb52-43b9-4c26-a791-6e47e5c41560,Thomas Davis,Nike ZoomX Vaporfly Next%,41,465,2325,5,2025-02-13 11:52:03
+51d3ffa9-83c6-4bbc-b25e-da65beb3ccdf,Gary Arnold,Vans Sk8-Hi,39,383,383,1,2024-06-01 03:31:05
+b6c520c5-b2ef-4fd9-bbdf-cd08bf62efb2,Victoria Fisher,Puma Future Rider,45,338,1690,5,2024-05-19 18:52:44
+bbc888de-d5c2-434e-bcf8-b2d38453bacd,David Burke,Puma Suede Classic,46,135,135,1,2024-07-16 08:14:13
+8e0b44a6-168a-4fef-9f00-2e7cce3ccb72,Jacob Moore,Vans Old Skool,38,125,625,5,2025-02-01 04:39:59
+fe01c30b-d36a-4470-829c-d1be9ac23cd0,Kristy Jenkins,Reebok Classic Leather,39,470,2350,5,2024-07-15 14:12:21
+93061982-af88-4d86-a916-bd537cb10657,Lisa Schwartz,Vans Sk8-Hi,38,497,994,2,2024-10-05 19:58:13
+2008cc89-c6c8-4b19-9630-7fda5d2d5452,Sarah Scott,Asics Gel-Lyte III,45,448,1344,3,2024-04-21 19:21:08
+a64518eb-688c-4106-8cd2-6ae8fdda446c,Sean Burch,Adidas NMD R1,40,201,603,3,2024-11-22 16:25:14
+f2441535-ee51-46ec-bd2c-fdbf8265d17c,Heather Ayala,Nike SB Dunk High,41,357,1785,5,2024-09-23 13:15:35
+25a272a6-eaf1-42ee-874c-8ec528c382a8,Lori Zamora,Reebok Classic Leather,36,158,632,4,2024-12-25 05:40:48
+ff47e94c-6c41-4945-b6da-94acc4581a74,Connie Mcguire,Nike Air Force 1,42,175,700,4,2024-05-31 00:37:45
+86eba83d-5e56-407a-a0c1-e54e2e021f16,Michelle Rogers,Adidas Ultra Boost,46,291,1164,4,2024-02-28 14:32:39
+23339774-a3db-43bb-9343-5e9fab657553,Dana Garcia DDS,Adidas Superstar,36,430,1290,3,2024-09-06 17:41:40
+2a036807-4393-4de0-8d2f-61630dca3867,Jaime Rodriguez,Puma RS-X,38,169,507,3,2024-11-01 09:59:20
+9b2e2878-2d99-4561-ae4a-817a494cb6ef,Jennifer Johnson,Adidas Yeezy Boost 350,43,113,452,4,2024-07-11 10:34:26
+926cd33b-f8c7-4687-b1fa-541f9d077fdd,Tracy Smith,Vans Old Skool,46,274,1370,5,2024-12-19 04:10:46
+9a476692-34f7-4e16-998f-2734ac0b6bef,Joseph Hood,Nike Air Max 90,38,114,228,2,2024-05-29 19:42:33
+7c964997-70dc-47bf-864c-4438cd03ff15,Caroline Smith,New Balance 990v5,36,463,463,1,2024-07-12 06:26:50
+5f5000fb-e6eb-4e97-9e1b-a56bcea22c98,Yvonne Graham,Adidas Yeezy 700,43,263,263,1,2024-03-04 20:28:33
+e4776f24-9886-4a72-a55e-acaf23baf262,Michael Rogers,Nike Air Max 90,39,137,137,1,2024-03-22 03:14:55
+013f4af0-43d6-4266-91d7-3283d7e5605d,Charles Anderson,Nike ZoomX Vaporfly Next%,41,258,774,3,2024-07-21 13:24:47
+ca0c85fd-b4a3-4bef-a402-e800a9d9c33c,Angela Newman,Nike Air Jordan 1 Retro,42,320,1600,5,2024-07-05 12:04:17
+0202f8a1-6efc-4110-9d2b-d12654d73377,Dale Miller,Vans Sk8-Hi,36,215,430,2,2024-09-27 13:48:27
+dd6191bc-97bc-4a88-984b-f88a43967a11,Paul Clark,New Balance 2002R,36,263,1052,4,2024-12-11 16:36:45
+06becdc6-1f47-438b-b44e-5446feed5423,Kristen Cardenas,New Balance 327,41,293,586,2,2024-02-25 22:39:16
+2bb47f8c-0d5b-4189-a8e4-8f7967fc4edf,Daniel Graham,Salomon Speedcross 5,44,467,1868,4,2024-12-10 00:54:13
+e7432ed0-07b3-4905-a4ea-5ed92b27259f,Nicholas Booker,Puma Future Rider,40,404,1616,4,2024-11-06 12:44:58
+42cfc70c-b3ff-4ddf-b06c-23b78353d099,Jose Morgan,Adidas Yeezy Boost 350,39,212,848,4,2024-07-27 08:50:19
+f8d72191-4762-4b34-8192-21e49b17598e,Kevin Sullivan,Salomon Speedcross 5,43,280,1400,5,2024-02-29 16:37:37
+52e7392d-09a0-4400-8280-ecbac7496139,Richard Kent,New Balance 990v5,46,245,980,4,2024-05-22 23:22:44
+31285202-3ea6-4d74-a1eb-cbef06c0ac1e,Rebecca Williams,Nike Air Max 90,37,323,1615,5,2025-01-29 13:59:10
+267b932d-0404-4f94-955d-dec4da109e6b,Jennifer Miranda,Nike Blazer Mid '77,46,229,916,4,2024-03-31 10:59:47
+86fc53ab-479c-463f-b136-7a3feb8a07aa,Brad Moore,New Balance 327,41,417,2085,5,2024-06-14 20:54:22
+631f3a45-c251-4ee1-8837-308ac44d215b,Kimberly Mccormick,Nike Dunk Low,46,385,385,1,2024-06-15 19:18:05
+e6393483-1510-46ce-8f4a-1d33b0dc99c7,David Stanley,Converse Run Star Hike,46,339,1017,3,2024-08-14 11:38:06
+d5e3e8ed-98d0-4859-a57e-56e1bbc5e600,Steven Rodriguez,New Balance 2002R,42,498,498,1,2025-01-18 15:43:29
+5bf0693d-4d93-44e6-b409-dadcee66d530,Christian Nelson,Asics Gel-Lyte III,43,454,1816,4,2024-10-24 11:27:10
+55c0b836-371e-4eb6-b310-8de67177511e,Lauren Lucas,Nike Blazer Mid '77,43,130,390,3,2024-08-27 10:25:09
+1c762deb-4a65-4f15-8795-bd9156860039,Virginia Jacobson,New Balance 327,44,447,2235,5,2025-02-12 09:24:23
+56820c12-3426-436b-b099-91350a74fb65,Mr. Trevor Erickson,Nike Blazer Mid '77,37,387,1548,4,2024-04-25 22:18:56
+bc27cf5a-22ff-4b9c-a23f-3681c606c6d9,Shawn Nichols,Vans Old Skool,44,250,750,3,2025-01-05 18:30:29
+f1c8c688-4eb6-4cf6-bbc6-3a02a30a5f09,Dr. Nicholas Thompson MD,New Balance 990v5,36,152,152,1,2025-02-19 12:41:21
+e014aad5-1f36-4202-9e9c-d166aedc246e,Richard Hoover,Asics Gel-Lyte III,41,341,1705,5,2024-07-28 07:09:34
+2bed6bed-37a6-4b72-93ea-232c04aee907,John Harris,Nike Air Jordan 1 Retro,43,398,398,1,2024-02-28 10:23:28
+7db0bccb-548b-49e4-8f4a-394e40ca2e81,Sherry Jones,New Balance 2002R,38,305,1525,5,2024-12-02 02:42:41
+b5def255-676a-4599-9790-ef5207546bf3,Linda Parker,Salomon XT-6,38,161,644,4,2024-05-11 14:27:15
+538c4fb3-5b0e-4ea6-9d52-816b8191557e,Monica Clayton,Nike Air Max 90,43,255,1275,5,2024-06-21 13:13:03
+146c13b4-e411-4738-88d0-8343cecd4e95,Henry Hart,Nike Air Max 90,42,261,261,1,2025-01-27 11:36:31
+3e6be42e-1608-4374-a56c-a3f7008df7ea,Allison Chan,Nike Air Jordan 1 Retro,45,350,700,2,2024-08-28 14:48:14
+92d1f177-d289-4425-a301-40af394c77a1,Matthew Osborne,Adidas NMD R1,38,298,1192,4,2024-05-28 04:16:35
+3da6d518-9bea-469e-831c-eacb2ffe20f1,Christopher Jefferson,Converse Chuck Taylor All Star,47,376,376,1,2025-02-10 10:15:49
+a05076cc-8ac1-4155-bf0b-a6ccc6af494b,Sharon Cruz,Nike Air Force 1,45,295,1475,5,2024-12-08 23:03:30
+66533de9-bd72-452b-90ce-ee201fd0393e,Kathleen Barron,Adidas Forum Low,39,193,772,4,2024-07-30 11:59:42
+6d19ac58-850f-4154-a843-c7beb9118805,Karen Lewis,Asics Gel-Kayano 14,46,371,1855,5,2024-03-22 05:16:29
+b8a960ba-a681-48ef-9925-471d0f4c8814,Rachel Barry,Vans Sk8-Hi,38,364,728,2,2024-12-18 22:49:50
+6688db42-6feb-4b5f-9ed7-46817fc1c2d9,Michael Dickson,New Balance 327,40,127,635,5,2024-09-08 17:41:00
+7eaab1ed-47d0-4011-a90a-b717a2efefb7,Amy Fuller,Adidas Superstar,40,487,2435,5,2024-06-01 00:20:30
+81c048d3-4b83-45f9-9db0-e661e7167545,Sydney Sanchez,Nike ZoomX Vaporfly Next%,41,101,202,2,2025-01-20 00:09:46
+4da12d0c-2ef2-4351-afd1-05ab6451b21a,Susan Williams,Vans Sk8-Hi,45,223,1115,5,2024-11-20 00:33:44
+e15c7775-bbb0-4402-aa95-29478ff8cc9e,Eric Gonzales,Reebok Club C 85,36,278,1390,5,2025-01-17 02:23:39
+e7233cb9-42a7-402f-81ae-a885dab14433,Susan Shaffer,Adidas Yeezy Boost 350,43,407,407,1,2024-06-19 03:35:29
+1f1cf619-720f-4fe5-8b28-1bcabaa46222,Rebecca Lopez,Vans Sk8-Hi,36,419,419,1,2024-10-09 19:07:30
+88a9bd8f-2a66-4ae8-ac65-4855ccdf969e,Stacey Baker,Adidas Samba OG,44,444,1776,4,2024-10-16 03:30:10
+01287824-1ffe-4ad7-9acc-4bed6eae2d9a,Brian Chapman,Puma Suede Classic,47,428,2140,5,2024-05-15 17:24:59
+9973e0c8-2260-4f0b-b0ce-934c2c4668b6,Caitlin Owen,Asics Gel-Lyte III,38,113,339,3,2024-06-21 22:15:24
+4ba2cb35-17b0-4e4d-87b3-2881c921ec30,Felicia Turner,Adidas Ultra Boost,41,283,283,1,2024-12-23 21:52:12
+6cd61d58-6431-445e-8201-15c86385b7f5,Laura Lopez,Asics Gel-Kayano 14,46,459,459,1,2024-04-29 19:27:56
+b71f88f0-fcf7-44b0-a4c4-08df135bd56a,Ruth Ochoa,Asics Gel-Lyte III,46,422,2110,5,2024-08-18 10:29:30
+f44d354c-4609-429b-a60b-8cceea1f175f,Allison Ramsey DVM,Asics Gel-Kayano 14,41,421,1263,3,2024-07-15 12:18:36
+8472eab1-4579-4fae-acad-d2f41f27c8fc,Gregory Anderson,Adidas Superstar,38,285,1425,5,2024-02-23 16:25:51
+8e50f662-1622-404b-9730-d0ab524502f4,Eduardo Lee,Puma Suede Classic,47,325,975,3,2024-07-24 09:30:08
+2b4cd0c1-6b8a-462a-bc37-d97d03d8100f,Ashley Howard MD,New Balance 550,41,139,556,4,2024-09-18 19:14:24
+6d899402-b6a1-4896-9bb6-65ae8370dbc9,Melissa Rich,Converse Run Star Hike,36,292,584,2,2024-12-16 19:53:49
+9da18713-f571-4840-bbdc-83fb3d88e8f3,Joseph Carr,Salomon XT-6,37,230,1150,5,2025-01-07 11:52:11
+2eced456-5fe5-4adc-b070-588e3a405fd4,Brandon Henderson,Adidas Samba OG,40,474,948,2,2024-11-13 22:22:34
+99186498-072e-4392-b6a6-8e6954b5825f,Lisa Williams,Vans Old Skool,43,414,1242,3,2025-02-08 04:09:00
+ff590c3a-5c49-4207-8d4c-763c3c4c8dd6,Katie Parker,Puma RS-X,40,359,1795,5,2024-03-07 22:03:07
+7aa68501-74cd-49fc-a87d-45439f858dbf,Robin Moore,Puma Suede Classic,43,296,296,1,2024-05-09 02:52:21
+dead0827-db24-472b-b233-cba885d96ab2,Michelle Morris,Salomon Speedcross 5,43,202,606,3,2024-03-17 08:49:54
+9e4903cc-61cc-4a7f-9c4d-5f912574a219,Heather Miller,Adidas Forum Low,44,368,1840,5,2024-07-19 08:01:38
+8337f652-b335-4cfa-ac4b-69d690d23476,Douglas Vaughn,New Balance 990v5,38,128,640,5,2024-11-01 00:59:56
+be39129a-0b4f-4887-97c8-058b346954b3,Chad Hamilton,Nike SB Dunk High,36,338,1014,3,2024-05-29 17:56:06
+c305d248-343d-4145-8b93-b4176008e83e,Monica Nichols,Adidas Superstar,45,113,113,1,2024-09-01 12:48:39
+345504ab-a55f-49d4-a24d-835756c83ac8,Mrs. Jackie Johnson DVM,Nike Air Max 90,38,253,253,1,2025-01-01 04:40:43
+876492f6-0ae1-421f-94da-fe3a48a02b28,Elizabeth Flowers,New Balance 550,47,478,478,1,2024-09-05 22:11:03
+92d2a065-d397-4f4e-8011-1d1b24310fc0,Erik Church,Asics Gel-Lyte III,38,306,306,1,2024-11-19 23:27:37
+a009c0e0-9139-4569-aa65-c92e925e9331,Julie Morris,Nike SB Dunk High,36,244,488,2,2024-06-06 03:53:35
+e7cd850f-6ac6-4487-87e9-2c652fd28d61,Lisa Delacruz,Reebok Club C 85,38,390,1950,5,2024-03-29 10:45:52
+2b164bb5-405b-48b6-a827-0b8efd51aca3,Jennifer Haas,New Balance 327,37,336,1344,4,2024-09-07 06:14:24
+859809ff-2131-4b29-a0e8-c313144bb8bd,Andrew Sims,Nike ZoomX Vaporfly Next%,46,362,1086,3,2024-08-25 21:58:45
+a95960e8-46ea-4741-a592-28302f193a23,Richard Miller,Puma Future Rider,45,148,296,2,2024-09-17 00:51:00
+b392548c-b76b-417f-bf96-0c4210bc5635,Brenda Ford,Vans Old Skool,47,202,202,1,2024-08-24 13:03:23
+13e067f3-e52f-4e0d-957c-2fc2c863ee6f,Heather Andrews,Adidas Yeezy Boost 350,46,481,1924,4,2024-08-17 04:30:40
+adaa8286-54b3-4fe0-a3cc-493d020c161d,Alison Brown,New Balance 550,37,107,214,2,2024-07-27 09:23:13
+c162bab1-ff11-4871-969e-cb90a35c39c0,Kevin Hernandez,New Balance 990v5,40,212,1060,5,2025-01-22 13:10:50
+3f42f79b-222d-4fbf-8bcb-b865b239398b,Leah Mills,Nike Blazer Mid '77,46,157,628,4,2024-10-30 20:36:50
+7d1f2bbe-3094-43c8-a4a8-544a7ceae008,Jenna Reynolds,Nike Air Jordan 1 Retro,37,376,1128,3,2024-07-02 02:32:55
+4a0b1156-0f7a-4b26-bb8a-54ee3ed739d4,Kaylee Burns,Vans Sk8-Hi,37,226,904,4,2024-10-15 01:24:13
+9b0baac1-42b9-4451-9a91-4eed4efb5811,Madison Wright,Asics Gel-Kayano 14,38,155,465,3,2024-12-27 06:53:43
+b37616bb-ca73-4000-9862-25d1bc2e00fc,Catherine Gill,Adidas Superstar,43,483,483,1,2024-05-06 07:51:15
+70620144-9720-423e-99b2-75f67654dfe4,Paul Francis,Vans Sk8-Hi,43,391,1173,3,2024-11-10 04:24:24
+4ca8d96f-5837-4fb2-be21-b75efeac503e,Christopher Williams,Puma Suede Classic,45,435,870,2,2024-10-22 23:58:38
+8c333e6a-be1d-4831-9021-2c34eed03b4a,Elizabeth Lambert,Adidas Forum Low,46,227,681,3,2025-02-09 11:58:16
+2a6b5a22-5165-45be-aa5f-d7a5e4a9f71f,Melissa Moore,Nike Blazer Mid '77,42,403,2015,5,2025-01-21 12:25:10
+463bc053-ba01-403b-b767-264bba4cbaac,Rebecca Sanchez,Adidas Forum Low,47,392,1568,4,2024-10-15 15:14:05
+59904f1c-47c9-467a-afe3-f07a4194d455,Mary Dennis,Reebok Classic Leather,44,214,214,1,2024-05-22 01:30:32
+2379d64b-41cd-44a3-a31e-ed550c5ccba2,Jordan Moore,Nike Air Jordan 1 Retro,38,496,496,1,2024-07-09 15:31:44
+1b961931-3dca-4448-9986-b254fd61e7f5,Kristen Martinez,Nike Air Jordan 1 Retro,46,263,263,1,2024-04-02 04:06:27
+89892c0f-a37e-48ef-a36a-f4e026af5594,Ashley Rowland,Vans Old Skool,42,115,345,3,2024-08-26 12:11:52
+f5535ecf-b2b6-4b0f-b816-79b73022ac56,Alexis Hill,New Balance 2002R,44,302,302,1,2024-09-11 11:04:34
+a95fd475-2998-4b44-b1e5-6d2067fb41e3,Joseph Jones,Vans Sk8-Hi,42,162,162,1,2024-06-30 18:23:10
+9477ef14-0734-49a8-af7a-4db9b5f9f4e9,Mason Madden,Adidas Yeezy 700,43,128,640,5,2024-12-18 13:22:35
+4b1cabd2-96d1-4d99-b097-e6378fefeb64,Andre Livingston,Adidas Superstar,45,146,438,3,2024-11-11 16:38:49
+7c3d2c01-913b-4747-9052-8ebc1779cdd6,Carrie Robertson,Converse Chuck Taylor All Star,40,242,484,2,2024-11-16 03:26:13
+6f8178bd-7cb3-46ea-8a99-be434c13d640,Robert Gonzalez,Nike ZoomX Vaporfly Next%,36,123,492,4,2024-03-02 12:41:53
+afb95491-d52b-489f-8202-6d916fee54d1,Karen Robinson,Nike Air Force 1,47,403,403,1,2025-01-15 22:23:51
+fbb68d06-19a0-484c-84bb-8540bc7634cf,Travis Dalton,Adidas Samba OG,42,492,1476,3,2024-09-15 20:54:46
+7b93bd8a-49a5-45ee-a845-10f0f8155ccb,James Mccarty,Reebok Classic Leather,40,124,124,1,2024-02-28 14:25:16
+b78cfd73-75bd-46cb-815a-c57cb04837d1,Tracy Hebert,Puma RS-X,47,396,1188,3,2024-11-07 12:59:53
+d891861a-679d-485b-9d54-7d0f3678e7c1,Michael Solis,Adidas NMD R1,40,185,740,4,2025-01-16 11:09:47
+53b39b90-2bed-4d0e-b85e-b2443c351cae,Darren Sampson,New Balance 550,44,144,720,5,2024-11-21 22:07:04
+8f811d6c-8a88-4111-8193-34aa61b8ff60,Danielle Murray,New Balance 550,38,215,860,4,2024-12-17 11:08:32
+a1fb582d-93f9-44f5-8168-6f3e5ab7ea3a,Joseph Jackson,Nike ZoomX Vaporfly Next%,38,498,2490,5,2024-05-15 22:09:45
+bffb220c-f62c-4d5e-9281-9c8a952fa212,Michelle Soto,Converse Chuck Taylor All Star,41,327,654,2,2024-11-24 04:37:46
+1331f886-da8c-4587-8820-43afa1b3a8b4,Janice Black,Vans Old Skool,46,378,1134,3,2024-08-09 01:06:46
+374f3909-e453-4edc-956f-139f0d19fc51,Timothy Johnson,Asics Gel-Kayano 14,45,327,981,3,2024-10-24 16:22:53
+70610522-9155-4d5d-9731-51a933bbdda9,Dr. Cody Foster MD,Adidas Samba OG,47,215,215,1,2024-08-25 06:05:21
+55f3a410-6004-46c5-81ca-706adade5c95,Timothy Melton,Asics Gel-Kayano 14,46,412,412,1,2024-11-20 17:16:58
+1961c982-3e91-4be1-916b-79d76d6309b8,Lorraine Mccormick,Nike Air Max 90,47,350,1400,4,2024-09-14 09:52:25
+37e03cd4-ff12-459a-9c59-233b19e19219,Jason Downs,Adidas Yeezy 700,45,142,284,2,2025-01-15 09:36:03
+e2ced27e-a723-42c0-9c0f-2771e3834915,Mary Kennedy,Reebok Classic Leather,36,201,603,3,2024-09-06 04:53:44
+a71caca7-31d6-43f4-b6de-8138b05bfb6d,Candace Mitchell,New Balance 990v5,44,185,370,2,2024-04-16 15:50:38
+de169ce4-7f9a-42db-a0fc-5137523cc559,Amber Hall,Reebok Club C 85,44,443,886,2,2024-05-09 11:24:25
+fb1242af-48aa-4d68-8421-19cd2c8c9d0b,Sarah Best,Salomon XT-6,45,172,860,5,2024-09-07 05:10:29
+d976cd1f-eaba-4a57-ad3e-caf9d86a9782,Amanda Williams,Adidas NMD R1,41,104,104,1,2024-03-27 23:45:23
+ab3e928e-87c5-4456-8f90-deb1469f0b46,Sydney Garcia,Puma Suede Classic,37,403,1209,3,2025-02-02 22:16:02
+56912fde-0c9b-4b93-96f5-0d393d8e0697,Alejandro Jackson,Reebok Club C 85,42,397,794,2,2024-04-12 21:44:18
+fc01799e-9502-47b0-8269-e51600d85412,Lisa Barrera,Asics Gel-Kayano 14,46,416,416,1,2024-04-19 01:43:59
+6469f392-6078-4594-985f-a3ffef9d1ec9,Randall Harris,Puma Suede Classic,45,266,1064,4,2024-10-09 22:25:21
+157d83f3-0806-4e6e-8686-28fdbc5c6bec,Melanie Hernandez,Puma RS-X,40,128,640,5,2025-01-01 15:21:02
+41f3675f-c44d-43e9-a4b2-5b2e806edc42,James Moore,Adidas Superstar,46,133,133,1,2024-11-20 23:04:08
+f4802fdf-920c-4323-8f0d-524dea708c16,Jennifer Thomas,Salomon Speedcross 5,36,347,1735,5,2024-10-10 10:38:55
+36d89b16-2910-4ddc-83c4-c2e9b86caabf,Janice Hunter,Adidas NMD R1,36,465,465,1,2024-08-25 13:25:20
+b2c10f85-fe86-493c-b657-4474c7b0a200,Melissa Reed,Salomon Speedcross 5,46,388,1552,4,2024-06-18 12:55:36
+3932fd68-b5a0-4ad8-933d-f8238e64b775,Andrew Lopez,Puma RS-X,38,342,1026,3,2024-07-27 22:15:53
+5d277c39-8997-4422-b8be-f244237bc44f,Beverly Green,Adidas Ultra Boost,36,223,892,4,2024-08-10 07:51:47
+513b24a0-ff18-495c-b60a-324ef44b926e,Heather Franco,Adidas NMD R1,47,177,354,2,2024-06-19 09:25:35
+27e254c5-4483-4877-81a9-304a1a5c937b,Dalton Harris,Adidas Ultra Boost,46,277,277,1,2025-02-18 20:54:41
+4f59af01-50f7-4d4d-b1f0-344938f41229,Sean Pierce,Salomon Speedcross 5,43,351,351,1,2024-10-05 05:40:18
+c06f1b2f-4294-4af5-9540-fdc0f6e7d68d,Linda Hill,New Balance 990v5,37,228,1140,5,2024-10-17 06:52:42
+7d847b92-c802-4dbd-af4b-66135ff66b78,Susan Jackson,Adidas Superstar,47,427,854,2,2024-05-25 12:16:13
+d3819e99-87ef-43f9-8260-a0013f1fbbf3,Christine Johnson,Puma RS-X,46,207,828,4,2024-08-10 11:14:28
+1f8d6c4a-6388-48aa-b2b5-d3e2e0c993f4,Kathleen Miller,Adidas Ultra Boost,39,115,230,2,2024-11-06 17:16:57
+15b5bdf4-83e9-4e18-b801-7aa3bc92d681,Phillip James,Adidas Yeezy Boost 350,44,394,394,1,2024-10-23 16:43:35
+e520826a-4883-4112-b6c1-7448b1dcb8e7,Grant Nelson,Reebok Club C 85,40,242,242,1,2024-10-26 20:09:50
+417c9591-d82a-4738-a470-f3dcd1130fa6,Toni Gibson,Reebok Club C 85,42,248,744,3,2024-09-07 04:35:24
+66acf1bd-d9b2-4d72-99d1-28af0f18993c,Jessica Murphy,Nike SB Dunk High,36,314,942,3,2025-02-09 03:45:14
+cb168aaf-7db3-41a8-b94b-0132e3143204,Michael Wood,Nike ZoomX Vaporfly Next%,41,435,1740,4,2024-08-29 12:40:30
+ed613fec-4a2a-435c-ae0b-13abce19d8a8,Molly Mckinney,New Balance 2002R,46,104,520,5,2024-10-31 08:50:42
+9c835f12-4d30-4e57-8cef-e1211e3a5497,Aaron Johnson,Salomon Speedcross 5,39,151,604,4,2024-05-04 18:53:06
+89a534c4-78bf-47ff-afb1-c75b03f5e6df,Randy Long,New Balance 990v5,44,499,998,2,2024-04-09 23:29:03
+2143893c-726d-45b6-bf10-a1847770a8eb,Andre Rivera,New Balance 327,45,128,384,3,2024-03-19 11:44:43
+118380fb-6ef3-43ec-8e80-813f2c08e7bb,Tyler Elliott,Asics Gel-Kayano 14,36,177,708,4,2024-04-18 18:11:21
+0fe83568-b240-45d9-a311-0c1104200ba3,Amanda Ross,Adidas Samba OG,41,306,612,2,2024-11-11 06:19:39
+5be3faf8-7b90-414b-8e74-e923b6927f7a,Victor Smith,New Balance 990v5,43,104,104,1,2025-01-31 09:46:51
+8a2ef5fc-583b-42c8-a938-d8fe571f7551,Samuel Dennis,Puma Suede Classic,39,214,856,4,2024-03-19 22:46:05
+8564382e-3298-4f5e-a23b-fa1669ad4cd5,Ryan Ramsey,Adidas Superstar,41,405,405,1,2024-10-26 19:59:56
+8005c9bd-fe0a-4db5-a65d-83766fdfd493,Isaac Stephens,Puma Suede Classic,36,102,510,5,2025-01-08 08:14:06
+5fcd8684-31fe-407a-9ec2-103c9ee3bf3e,Brian Sosa,Adidas Yeezy 700,41,162,648,4,2024-08-29 21:03:37
+bb20d70a-538b-458a-ba06-1414bdb74c58,Joshua Fisher,Converse Chuck Taylor All Star,38,214,428,2,2024-05-04 15:26:06
+58c38ea8-7c0f-438f-a266-129bc35a9acd,Gary Walters,Puma Future Rider,42,174,348,2,2024-07-10 20:59:10
+750d9d37-d64e-48cc-90d7-1e6458c49dea,Natasha Stephens,Adidas Samba OG,44,415,415,1,2024-12-16 02:10:26
+d3d887db-c60b-4186-a053-6134c67eba11,Lisa Wilson,Salomon Speedcross 5,40,259,777,3,2025-01-15 19:44:26
+e1360e4d-e237-467b-acd0-abf899b30abe,David Lynch,Nike Dunk Low,37,375,375,1,2024-07-20 11:55:12
+e1607dfd-b83d-4424-9f0c-0985cb222cf9,Amanda Peck,Adidas Yeezy Boost 350,37,177,177,1,2024-08-16 12:31:52
+d2223e99-03f2-4132-9fdf-465e00a38be2,Jennifer Williams,Asics Gel-Lyte III,39,139,417,3,2024-05-25 14:40:34
+f8fb919c-b618-451d-85b1-eea0b25dce2b,Douglas Richard,Adidas Forum Low,37,430,860,2,2024-12-29 09:10:30
+35a1045b-ead8-4ee5-9fe3-7ad8438f219d,Robert Jackson,Puma Future Rider,37,403,403,1,2025-02-07 11:24:29
+dee05828-8d4d-40d7-820f-0da2265774c4,Jessica Cooper,Puma RS-X,46,429,858,2,2024-09-13 01:58:02
+1045ebc9-d795-484d-af2f-62f8daf53f90,Tracy Kelly,Converse Chuck Taylor All Star,46,159,159,1,2024-03-28 04:03:34
+97fb61e1-442a-4db3-a85d-a97ff60a4b76,Adam Perkins,Puma RS-X,43,427,1708,4,2024-10-09 17:49:37
+f3fcbb66-c1c3-4963-b81d-62073a8a739b,Brittany Parker,Nike Blazer Mid '77,43,353,1765,5,2024-10-25 05:03:20
+2d01bb3d-a5fa-4096-92b8-b8c7a3e6b78c,Stephen Garcia,Nike Blazer Mid '77,41,385,1540,4,2025-02-02 08:14:59
+420d008c-4373-444a-badd-90f5178aa758,Tiffany Stone,Nike Air Jordan 1 Retro,45,224,1120,5,2024-05-19 12:32:14
+96987ce6-96a8-4eef-b1be-52b8d79ea16a,Emma Haynes,Salomon Speedcross 5,44,486,1944,4,2025-01-31 02:43:20
+1433bb51-e5c9-4997-afd8-3c1833c42c64,John Davis,Vans Old Skool,47,396,1980,5,2024-11-02 16:14:47
+4237ef26-3c6c-4d02-92ef-93ade4cd671c,Michele Mejia,Converse Chuck Taylor All Star,45,299,1495,5,2024-12-22 02:12:51
+1fe7b88e-0faa-4d51-870d-7459e987f615,Nicholas Johnson,Nike Air Jordan 1 Retro,43,466,932,2,2025-02-09 00:02:16
+b31e49fc-cf17-4498-90b0-80366f988867,Kenneth Krueger,Nike Dunk Low,47,312,936,3,2024-04-16 13:34:35
+b4427709-a1ba-4df6-9fe5-470608151ece,Suzanne Bauer,Adidas Forum Low,40,335,670,2,2024-09-12 09:48:00
+57c58c98-94ae-406f-ae99-befb079b8e52,Angela Underwood,Adidas NMD R1,39,429,429,1,2024-03-04 05:22:36
+8ad980a1-fc71-4799-a55a-fbdd9c80c4e6,Hannah Wu,New Balance 550,40,329,329,1,2024-08-13 01:11:20
+5d6a4b5d-6f70-47e5-b174-ef5fb5eb00a8,Jennifer Campbell,Converse Chuck Taylor All Star,37,191,382,2,2024-08-25 18:09:42
+e460d8a3-5dc2-4c45-825b-2e24a9e3dbaf,Robin Davis,Salomon Speedcross 5,44,154,616,4,2024-05-28 06:05:29
+bbd997da-5ea6-4ee8-acc4-a667dd1c0eb0,Jo Durham,New Balance 2002R,47,304,1216,4,2025-01-27 20:48:54
+ce4af9c4-923e-4e2f-9899-cf544d5641eb,Jamie Cervantes,Adidas Forum Low,46,298,1192,4,2024-03-09 01:04:55
+f5088358-6b6c-4d83-8252-9a0738fc2295,Derek Robinson,Adidas Yeezy 700,37,475,475,1,2024-11-16 17:17:39
+bca14c7d-e029-4135-aca2-a8671edc3ba3,Jacqueline Alexander,Converse Chuck Taylor All Star,43,143,143,1,2024-10-10 14:40:42
+e93e3cf7-f33a-4e9d-802e-6e332f1d219c,Rebecca Rollins,Nike Blazer Mid '77,39,425,425,1,2025-02-14 01:15:50
+fdc52358-d891-4720-80ae-f4172ad7706d,Spencer Tate,Converse Run Star Hike,36,424,1696,4,2024-12-25 16:08:14
+861d9eb1-c2e7-49d8-b651-57c85af9bf67,Rachel Martin,Converse Chuck Taylor All Star,39,154,308,2,2024-05-14 05:36:16
+9634d4ce-0044-408d-b08f-50029eea864b,Jacqueline Carroll,Puma Suede Classic,45,213,852,4,2024-07-25 14:05:32
+9ff3aa02-f52c-4580-b36b-a7eb1ce26eca,William Kelly,Adidas Ultra Boost,40,478,1912,4,2024-02-23 07:38:48
+b9294789-7beb-4ed0-b558-08fb96f8c4fb,Jeff Meyers,Vans Sk8-Hi,47,127,508,4,2024-12-05 18:02:01
+f488fb1f-dbfb-4380-a95a-4a9e0d5b30bf,Melissa Chambers,Puma Suede Classic,42,108,324,3,2024-09-23 14:10:23
+5b04d533-fd42-4d99-95b1-a97d6189af13,Michelle Brown,Adidas Superstar,40,420,1260,3,2024-12-28 21:46:18
+883913be-7293-4b71-a21f-4d6ba3f21b4a,John Haas,New Balance 550,45,104,416,4,2024-07-05 05:25:31
+a092fa8b-218b-46ed-b585-3832c9ac2051,Christina Cantu,Salomon XT-6,44,220,220,1,2024-08-09 22:12:55
+24b013d1-d0eb-4a9e-b5f1-75b1cdcdce8e,Rebecca Peterson,Converse Run Star Hike,39,356,1068,3,2024-06-27 18:41:31
+fd71f267-6fa9-4e8e-9c95-b9cb98d93678,Vincent Townsend,Vans Sk8-Hi,36,132,660,5,2025-01-06 15:48:46
+5ef5e230-3f2b-4a77-a111-e0c7b8bf3fff,Shannon Price,Reebok Classic Leather,43,262,786,3,2024-04-14 16:50:00
+941d4471-5c64-4a10-a0e1-3383ae62e331,Donald Perez,Nike Air Force 1,38,433,1732,4,2024-04-17 02:11:40
+3f876ef1-7319-42fb-a590-058e4f99c2d3,Mrs. Robin Smith,Adidas Yeezy Boost 350,39,143,143,1,2024-10-17 19:02:39
+ad7b5f32-3c71-447f-8a9e-0706a6e4a0bf,Paula Phillips,Puma RS-X,39,446,446,1,2024-03-22 00:07:23
+8d62bf1d-f801-4698-bbb3-e5deb7959ebf,Kevin Mack,Puma RS-X,37,494,988,2,2024-05-27 23:20:45
+c2400b89-cf27-49b6-8312-32c6a57b49bd,Cassandra David,Asics Gel-Kayano 14,45,226,452,2,2025-02-01 20:18:59
+0fee9c45-3d37-496c-ba95-1db43f658bee,Andrew Carter,Adidas NMD R1,46,160,480,3,2024-05-15 01:45:15
+8e2d14d9-aab8-4be6-b2fe-e38ead7c91de,Bryan Le,New Balance 990v5,36,440,880,2,2024-12-09 21:19:43
+ec2504a8-fb71-4830-b19a-fcfe1c6bd704,Stephanie Owens,Asics Gel-Lyte III,41,405,1215,3,2024-09-26 13:45:24
+3c2b6985-2638-4a2a-b350-3779f9940f61,Brian Hernandez,New Balance 990v5,41,362,1448,4,2024-04-16 17:23:37
+3677839e-1643-4af9-83b1-c56080cbc873,Brian Lambert,Salomon XT-6,43,167,167,1,2025-01-22 23:02:43
+2f7e7969-0b47-4c3b-bf3d-019afe1b6861,Robert Gibbs,Nike Dunk Low,46,350,700,2,2024-08-17 02:14:32
+19c6af2b-2082-4864-b014-baaade59c191,James Gregory,Nike Blazer Mid '77,40,306,918,3,2024-10-10 22:08:28
+d85c1f21-ebab-473c-9555-2ea09997a4b5,Justin Perkins,Reebok Club C 85,44,487,1461,3,2024-03-25 17:21:51
+d83a6f2c-aeac-4813-bf6f-6d99fb52d0fd,Latoya Martinez,Salomon Speedcross 5,45,184,552,3,2024-08-18 09:15:52
+a1f05c8e-752e-4bcf-a66c-6c7c920a4eea,Judith Melton,New Balance 550,36,480,1920,4,2024-04-12 13:00:09
+2c1f832c-bbf7-4718-a52a-0a5434c8737f,Christopher Young,Nike Air Force 1,39,152,456,3,2024-05-13 01:42:34
+3f970d0b-16c7-4292-bf18-e50f0e24ed78,Lisa Turner,Adidas Forum Low,44,491,2455,5,2025-02-08 12:51:44
+9bf87e64-34a3-4ffe-9da7-dcf4283567b6,Taylor Warren,Adidas Samba OG,46,123,615,5,2024-08-11 04:32:17
+138753b5-6794-45f3-9742-2709577a3068,Todd Foley,Salomon XT-6,43,392,1568,4,2024-09-27 17:10:28
+d0f2f8cb-8c33-4fee-afc0-cd55d336b7d3,Jermaine Kennedy,New Balance 990v5,40,103,515,5,2024-08-17 08:46:38
+5b0ef15b-92de-4226-8a9e-47b74adf1e40,James Mahoney,New Balance 2002R,36,132,660,5,2024-09-11 18:29:38
+f757f2e4-a2bf-4347-bd56-da4d7921522f,Brendan Smith,New Balance 327,37,448,1344,3,2024-12-16 01:03:22
+e1f886a3-52b9-41f0-8d72-3dd142e7d5ef,Nicholas Thornton,Salomon XT-6,46,221,442,2,2024-05-26 21:40:12
+c90da5a4-95ee-48d8-b467-f6bed00fc8b8,Veronica Beasley,Adidas NMD R1,38,290,1450,5,2024-09-04 17:50:22
+1243bcd8-0632-4d69-b5c9-5295a1b4d9c3,Carl Wilson,Nike Blazer Mid '77,45,299,299,1,2024-08-08 09:16:19
+003c46ab-a1f8-421f-a699-a142c6c39d92,Alexa Villarreal,New Balance 327,37,308,924,3,2025-02-20 06:58:45
+18ce016a-c82e-4ccf-8977-b9df60987ee7,Kerry Morgan,Adidas Yeezy 700,43,175,525,3,2024-03-09 04:12:45
+d54b3bb2-3912-434d-a0c6-c6e74173acfe,Shawn Serrano,Adidas Yeezy 700,43,472,1888,4,2024-04-02 20:42:09
+ded44e4a-32e7-4a9f-9e6d-65bd280ce9a8,Bradley Scott,Adidas NMD R1,41,252,504,2,2024-11-20 06:33:00
+2bbdbe01-1fa3-4644-b87e-9c35d020d141,Paul Vance,Vans Old Skool,44,305,1525,5,2024-05-09 16:22:29
+b161923e-de58-4904-acb4-d3593753f7bd,Janet Williamson,Asics Gel-Lyte III,42,355,1065,3,2024-12-23 16:48:34
+c7aa675f-ce99-4151-a80f-03e0b6c14041,Jonathan King,New Balance 550,41,440,440,1,2024-10-17 00:35:31
+89f2e2f2-82ea-431d-98a7-8c9486665aa5,Kim Davis,New Balance 550,36,266,798,3,2024-08-13 10:48:33
+4e8bd2e5-e0ee-4e14-9e6e-ca185f84a4ec,Jennifer Castro,Vans Old Skool,41,459,1377,3,2024-07-24 11:24:26
+f87a9aec-bc6b-44ad-9302-fc023859a4c1,Carl Walker,Nike SB Dunk High,37,315,1575,5,2024-10-11 03:43:19
+560ee2d6-1489-4c3b-92e4-627ff5f2b6f1,Sheri Knapp,Adidas Yeezy Boost 350,41,131,655,5,2024-06-04 19:39:20
+2699af68-aedb-4cbf-a22a-7baa8aacbfce,Audrey Lee,Nike Air Force 1,46,270,540,2,2025-02-08 18:46:53
+a6591e26-95f6-4fae-a388-f95ff251b42c,Julie Smith,New Balance 550,46,178,534,3,2025-01-26 22:38:35
+30b0f162-effe-4251-b345-2cc9a2a95930,Jennifer Miles,Adidas Superstar,36,423,1692,4,2024-05-22 23:53:04
+bee6bc8f-3215-40e0-8ad3-4082f0820ac3,Nicole Mitchell,Adidas Forum Low,44,456,912,2,2024-12-22 10:30:02
+4ab1a8c5-c957-43af-b201-e2f5f3c8e58d,Linda Moore,New Balance 990v5,46,358,716,2,2024-10-05 17:01:42
+516e6c1d-baca-401a-99d6-265bf481a9c9,Tamara Bradley,Reebok Club C 85,39,281,281,1,2024-12-01 23:18:30
+bd0d51c0-d525-4e56-9b2a-9ac26dd0313f,Russell Forbes,New Balance 2002R,38,424,1272,3,2024-05-24 01:27:16
+8aaa1668-2744-4132-9af9-0e3d6c741e51,Andrew Harris,Reebok Club C 85,38,327,654,2,2024-09-15 05:06:22
+4e356abc-a537-461e-ab2f-aeaf56f02b64,Isaac Banks,Nike Air Jordan 1 Retro,46,303,1212,4,2024-12-14 23:28:55
+af739118-3f07-4149-8fe4-557b121dce2c,Sarah Ortiz,Nike Air Jordan 1 Retro,41,162,162,1,2024-07-08 00:46:16
+1758c067-b069-491a-90ee-f25fb2e6dd77,Natasha Henderson,New Balance 990v5,46,135,135,1,2024-08-31 21:33:04
+d51ef36e-b26b-4d7e-aa3e-4d3fb576575a,Mrs. Stephanie Bradley,Adidas NMD R1,40,294,294,1,2024-05-06 02:02:44
+7d66e186-7499-4710-a76e-a81ccb52ba57,Troy Gibson,Converse Run Star Hike,40,305,915,3,2025-01-11 12:02:50
+8513bbdc-0770-4dcc-ab8a-dabd88768e2c,Daniel Hopkins,Adidas Samba OG,39,283,283,1,2024-09-21 15:40:20
+2d1e1c0e-8269-4f30-bbb6-df88030cca0e,Ashley Dennis,New Balance 990v5,40,181,181,1,2024-11-02 20:17:39
+05b01c4a-998c-4360-b968-9e9cc0bd56d8,Michelle Williamson,New Balance 2002R,37,498,1494,3,2024-09-05 23:05:10
+d2a3198d-6e23-43a3-9d8d-c1d6438a6a90,Harry Jennings,Asics Gel-Lyte III,45,378,378,1,2024-11-20 23:22:17
+cd5ac38a-cd75-47e2-bab6-19190aa2afff,Kaitlyn Vega,Nike ZoomX Vaporfly Next%,41,198,990,5,2024-12-05 23:42:58
+98244654-643a-4e7d-843b-43db94a981fd,Frederick Camacho,Puma Suede Classic,39,471,942,2,2024-11-02 12:18:38
+0618e31f-1ac8-4227-ace8-c73753cfc66c,Jessica Love,Adidas Superstar,41,198,396,2,2024-10-02 15:03:29
+41c16c5e-1815-4e82-84a5-2804ca39796f,Eric Keller,Adidas Yeezy 700,38,333,666,2,2025-01-31 05:29:59
+fd63790c-c346-4639-85ab-a17697d289f7,Justin Abbott,Nike Air Max 90,39,235,1175,5,2024-09-11 14:58:49
+460afddb-49d7-4d6e-8f0c-57f6adabac32,Mr. Michael Howard,Asics Gel-Kayano 14,45,232,696,3,2024-10-29 10:09:49
+85925d6d-6e87-4005-be42-0ed7f8a1a0f9,Micheal Roy,Vans Sk8-Hi,38,329,1645,5,2024-12-06 09:34:56
+224d5497-f704-4668-bf5f-644f0772b306,Nathan Brown,Adidas Yeezy Boost 350,43,139,417,3,2024-10-09 07:13:59
+ee22086a-c82d-4397-bd0d-20ead0973967,Vincent Sherman,Reebok Classic Leather,43,358,1790,5,2025-02-17 01:14:31
+5ddd1c7d-1718-4b33-b9b3-df5bf248d326,Suzanne Edwards,New Balance 327,39,458,1832,4,2024-08-15 01:57:41
+6b7c8494-a058-4162-8cd7-ac1e6b7fd7fe,Sarah Knight,Nike Blazer Mid '77,47,198,990,5,2024-09-07 00:39:35
+11c3c3c8-7164-4998-ba25-3e98bba82f47,Brittany Young,Converse Chuck Taylor All Star,41,381,1143,3,2024-04-08 07:23:26
+bbb1d726-725b-441b-94a3-de08794c8720,Jessica Martin,Adidas Forum Low,36,363,363,1,2025-01-02 22:38:55
+98137b77-96bd-45f8-8f38-e033088aa585,Teresa Richardson,Reebok Club C 85,42,366,366,1,2025-01-22 15:08:38
+ee814b2e-8ddc-481b-b8dc-f843dc1f52b8,Tammy Garcia,New Balance 2002R,40,482,1446,3,2024-10-08 23:57:24
+c339cbcd-56d4-42c8-b737-d0c34292a3ef,Patricia Arellano,Puma RS-X,37,349,698,2,2024-10-19 04:28:39
+c06d256f-6e28-4557-993a-8214fd03842f,Valerie Gallagher,Converse Chuck Taylor All Star,40,144,576,4,2024-09-04 00:03:27
+a39f6daa-233e-4807-bf5e-ea186d43679f,Roberto Smith,Vans Sk8-Hi,38,101,101,1,2025-01-03 07:24:17
+ffad440b-8fd4-4166-a0c1-94a8e5ef308a,Amanda Contreras,Asics Gel-Lyte III,42,490,2450,5,2025-01-18 23:07:26
+72ca8859-80e7-4bb6-a587-92013fc5bd66,Brittany Smith,Converse Chuck Taylor All Star,36,296,1184,4,2024-10-19 12:24:16
+ed8a0f42-cba1-4345-956b-03ff28de53ed,Tammy Davidson,Nike SB Dunk High,38,227,681,3,2024-04-14 12:46:49
+444e0ced-076f-4455-a9fd-1fca673367a1,Brian Roberson,Puma RS-X,37,457,2285,5,2024-09-25 01:57:32
+a9143fad-f5a8-466f-9b66-bdeb0feb7451,Scott Ingram,Vans Old Skool,37,171,513,3,2024-07-16 21:53:14
+0464a8f0-e9ac-4373-9b92-7f153d0da414,Sheri Frazier,Adidas Superstar,37,249,996,4,2024-11-23 18:46:25
+31c4bdb0-cde0-4c1c-8ad1-271618470d89,Melissa Russell,New Balance 550,36,410,1230,3,2024-12-31 23:22:09
+a83f9a9d-3ca1-4101-bf31-200fbe01c7e1,Teresa Johnston,Salomon Speedcross 5,37,443,1772,4,2024-04-13 02:15:20
+9449aa93-eeba-47ea-a840-082cb381c40f,James Daniels,Adidas Superstar,36,183,549,3,2024-08-23 16:22:29
+81bbfd42-17b5-4bb7-b9c4-152421993592,Tyler Cain,New Balance 2002R,46,244,488,2,2024-05-05 07:15:42
+07baf0ac-644d-4ecd-9557-cf779a10fc55,Rebecca Ruiz,Adidas Forum Low,44,164,492,3,2024-07-27 11:52:53
+904480c1-7719-488b-90b8-33046be2866b,Thomas Jones,Adidas Forum Low,40,242,726,3,2024-06-04 16:37:19
+41d2c5a7-aae1-402d-b9c6-ec3489541f9d,Andrea Anderson,Puma Suede Classic,41,367,367,1,2024-06-15 12:49:07
+1a776f87-3c37-4210-8067-dc85ed6f0431,Samantha Morse,Reebok Club C 85,45,309,927,3,2024-10-02 13:44:32
+da1d154b-a6c2-4a54-990e-593820f1af69,Jeff Page,Puma Suede Classic,39,448,1344,3,2024-03-12 10:00:08
+d7be2a48-b429-49de-ad7b-c853b750e210,Jessica King MD,Nike Blazer Mid '77,43,409,818,2,2024-06-01 19:28:40
+6e01dee2-6399-4465-a13d-72e0c8d06286,Linda Fernandez DVM,New Balance 990v5,44,134,134,1,2024-08-21 14:52:18
+4e41b748-2128-4ee9-8953-6da3e9aec3d8,Cheryl Costa,Asics Gel-Lyte III,47,356,1424,4,2024-03-18 01:42:49
+78d4ee75-c716-4f81-bd3e-a74c14b98049,Elizabeth Morales,Vans Old Skool,40,224,224,1,2025-01-22 16:26:28
+f60d566b-7588-4ecb-89d2-853b7dfd5a90,Jennifer Phelps,Asics Gel-Kayano 14,40,208,1040,5,2024-04-18 03:16:24
+d2ef999d-3c5f-4a2c-b258-1b98009271d8,Thomas Coleman,New Balance 2002R,44,210,1050,5,2024-10-30 00:23:09
+3327432f-c07a-4740-ba31-77f4c0c26d54,Richard Oneal,Reebok Club C 85,37,297,1485,5,2024-08-07 18:27:46
+e4d8f0d2-6677-41f7-9ccd-67940a692197,Lori Bennett,New Balance 990v5,43,453,906,2,2024-12-22 17:13:28
+2ad7ce4e-69d7-497f-a310-8bd22c0c4320,Terri Graham,Nike Dunk Low,36,229,1145,5,2024-09-15 23:06:53
+6a679af8-ca3e-4509-ad7d-c383afe6ae39,Christine Santiago,Vans Sk8-Hi,38,482,1928,4,2024-06-30 18:17:12
+6b2c8b85-f748-4373-9536-92d4470592e3,Erin Abbott,Nike Air Jordan 1 Retro,38,365,730,2,2025-02-21 16:40:19
+0395e184-74f5-4931-8a27-9d491ddc9d17,Kyle Washington,Converse Run Star Hike,43,463,2315,5,2024-09-29 10:41:00
+dfb1e970-9f75-4681-bd95-7ced3487bb33,Teresa Morris,Adidas Forum Low,47,362,1086,3,2024-04-24 22:15:21
+973dbdd3-8351-4274-bec4-4d1d452dc0f4,Nichole Webb,Converse Run Star Hike,41,435,2175,5,2024-06-23 09:40:33
+bf865bd0-f426-474f-b199-e12992518b8e,Jessica Smith,Reebok Club C 85,45,333,1665,5,2024-11-22 06:07:29
+5d0475bc-dd13-4350-853f-4e8955cdc052,James Hampton,Nike SB Dunk High,42,487,1948,4,2024-10-16 21:59:22
+e8e63241-057f-4865-b75f-0bbfee12a177,Megan Robinson,Adidas NMD R1,47,150,300,2,2024-03-07 09:26:38
+25140d88-5ae5-409a-aa44-0d18f3e0895a,Kathryn Mathis,Converse Run Star Hike,36,279,1395,5,2024-05-27 11:32:50
+d50ce36a-bf1b-4f2c-9749-359e5071e2c7,Joseph Mclean,Nike SB Dunk High,41,112,336,3,2024-05-21 04:25:06
+532f6f1b-d6ae-4400-9a1b-16608b3b9345,Heather Clark,Salomon Speedcross 5,41,195,585,3,2024-05-01 11:28:11
+b003a6f4-b140-4938-b77c-698fc76cd9bf,Sandra Garcia,Nike SB Dunk High,40,308,308,1,2024-12-30 00:05:11
+1edd6974-4e2e-4b66-bee2-91a369e9122a,Mikayla Jones,New Balance 990v5,38,403,1612,4,2024-07-24 07:44:39
+b0583311-a5b4-417a-aa98-f58e64f78a84,David Kramer,New Balance 550,38,130,650,5,2024-07-24 03:59:43
+db7865ea-6ba1-4f29-8aec-3dab472816f0,John Gonzalez,Converse Chuck Taylor All Star,47,177,177,1,2024-12-03 05:38:27
+fbb0da62-ba6f-4d34-856e-8e424868dfa7,Monica Erickson,Adidas Yeezy Boost 350,36,222,888,4,2025-01-02 06:27:12
+2571c57c-9246-4eb8-9782-47023d78f6d9,John Smith,Vans Old Skool,45,334,1336,4,2024-05-12 08:10:44
+47e14525-250b-4800-adb9-4a92bc701827,Katie Arnold,Asics Gel-Kayano 14,36,465,1860,4,2024-04-02 05:34:13
+c25481b8-3f55-4e5b-88e3-7085e99b823f,Kevin Parks,Puma Future Rider,44,482,964,2,2024-03-08 04:49:24
+f49fc3e2-7d80-4928-8394-92cc05cfcc50,Debra Thomas,Adidas Yeezy 700,39,220,660,3,2024-03-28 07:27:54
+413315fd-6243-416e-ab6e-aa380b060dca,Dustin Sullivan,Nike Air Force 1,41,338,676,2,2024-10-15 18:24:59
+43d83e9b-00d9-4df6-867e-a7522aa85219,Alicia Peterson,Adidas Superstar,47,157,157,1,2024-03-29 01:29:04
+8980e621-dcae-49c7-95d5-944e82af34a7,Anthony Ortega,Vans Sk8-Hi,37,447,1788,4,2025-02-09 20:29:23
+00dc9707-5144-487f-9086-9628b1e37510,Austin Knox,Adidas Forum Low,46,439,1317,3,2025-01-12 06:55:58
+58fb8542-910a-47ca-be04-cd4cefe8b75a,Joseph Taylor,New Balance 327,42,146,292,2,2025-01-21 00:43:30
+df8f3e8a-7cdc-4026-906a-99d0f1eb69d8,Bryan Rivera,Nike Air Max 90,38,496,496,1,2024-12-29 06:35:27
+7c03af24-c792-4bb3-9bd5-b0c2c6072b08,Willie Williams,Adidas Yeezy 700,47,354,1416,4,2024-11-03 19:02:36
+22e539b5-6f54-4cf2-89cb-466d2ce18adc,Tina Morris,Nike SB Dunk High,42,304,304,1,2025-01-24 05:34:55
+b88fa9cf-fc2f-4b2c-a083-4bbc382121c8,Bradley Ramsey,Adidas Superstar,37,288,576,2,2024-11-28 14:02:30
+f1e28640-40b7-4f79-b926-a078f3e8f6c7,Joanne Lewis,Puma Future Rider,39,101,505,5,2024-11-21 12:58:37
+983579a2-9b3f-4de4-b68b-7f936b0c0c8e,Michael Torres,New Balance 550,42,380,1140,3,2024-06-06 07:53:05
+97839203-d324-4a8d-b155-ef299f2bc5f6,William Castillo,Converse Run Star Hike,46,154,308,2,2024-11-04 07:10:44
+25ce2e23-c4b6-4824-bea5-ae178af35e08,Sonya Cox,Converse Run Star Hike,36,388,1552,4,2024-12-27 17:56:15
+62c5b8e8-38f3-4d7d-abfe-92f14e6191f8,Tammy Weaver,Vans Sk8-Hi,40,118,354,3,2024-05-13 17:35:20
+5f50b4db-f0e2-4a39-b486-4718c764b401,John Frazier,Adidas NMD R1,41,385,1155,3,2025-01-22 00:04:30
+241bb905-5586-439a-b408-84e6d5cba31d,Stephanie Hunter,Nike Air Force 1,40,121,121,1,2024-07-27 07:59:36
+47c3c63a-1ebb-4a5f-b79e-03069099eaa6,Daniel Williams,Asics Gel-Lyte III,40,452,1808,4,2024-03-10 01:58:16
+ad4d12fb-9d9e-4c8b-8ba3-7f610849d289,Evelyn Miller,Nike Air Force 1,38,259,1295,5,2024-07-15 12:35:25
+e246ffce-9459-48ae-b676-717e6bedd80e,Ann Moore,Nike Air Max 90,47,250,250,1,2024-04-22 02:51:18
+f028b140-7dc2-442b-adbc-7f9eb50ca6df,Mrs. Tiffany Mcdaniel DDS,Converse Run Star Hike,41,495,1980,4,2024-02-26 18:21:22
+aefcf091-e8c1-4aa7-ad37-d6471684099c,Kathryn Williams,Adidas Ultra Boost,36,422,2110,5,2024-02-25 16:44:33
+b05d7303-3ba2-4241-905f-270f224583a4,Kristy Jones,Reebok Club C 85,44,313,626,2,2024-11-24 18:51:12
+5b8c68e1-d683-4086-b30a-565c4409a4ca,Linda Duke,New Balance 327,47,373,1865,5,2024-10-15 03:54:47
+1f34345b-d505-4937-9b41-19565713a7fd,Dr. Michael Jenkins,Reebok Club C 85,45,341,1023,3,2024-04-28 15:01:16
+0e1a9666-0d7b-4cb9-8fcb-dffbc451e290,Amy Hale,Nike Blazer Mid '77,42,274,1370,5,2024-04-02 11:48:55
+a8fcfc04-919d-47a4-be89-41580f0be569,Diane Shannon,Converse Chuck Taylor All Star,43,302,302,1,2024-05-10 22:26:52
+9493ab46-ad45-42c3-a9e9-908a62213945,James Morales,Adidas NMD R1,39,226,678,3,2024-03-29 13:30:39
+70d0cafe-be59-426c-af36-c8c46ecbfd82,David Hess,Adidas Ultra Boost,44,441,1764,4,2024-07-27 10:07:15
+0c63a838-cd77-437e-985b-b49caaea7fd8,Charles Hamilton,Nike Air Jordan 1 Retro,40,439,878,2,2024-07-25 05:12:31
+3bb2b289-e4eb-4759-b136-7db57338c7b3,Vanessa Gates,Adidas Superstar,46,228,456,2,2025-01-01 19:04:34
+209304ab-1bf8-4ac2-af61-048e0702fef0,Jill Schmitt,Converse Chuck Taylor All Star,45,186,744,4,2025-01-19 21:48:14
+7eb040be-3057-4feb-940b-9b6c72b7a042,Elizabeth Torres,Vans Old Skool,40,128,256,2,2025-02-09 23:12:22
+49ce1d06-b557-4543-af5f-072fbc234fc3,Todd Finley,Salomon XT-6,42,393,1965,5,2024-10-08 10:43:54
+b2f8861f-a762-48ed-bb9a-8eb8e02e87b3,Ronnie May,Salomon XT-6,37,246,738,3,2024-04-13 06:58:45
+38eb5de4-fa7b-49e8-820c-e1d460772f3a,Bruce Vaughn,Converse Chuck Taylor All Star,38,107,428,4,2024-12-11 04:54:14
+5473392c-b370-49dd-9101-7819682bcb57,Emily Blair,New Balance 550,45,115,115,1,2024-03-16 05:23:17
+78303d3a-99d2-4663-84c9-8b00b7c46011,Sylvia Perry,Adidas Samba OG,37,217,434,2,2024-05-09 08:47:12
+5af13735-2897-4fc5-bc61-13f5b812af57,Rick Smith,Vans Sk8-Hi,41,480,960,2,2024-06-22 18:07:05
+dbaa81ea-41a2-49bb-a082-a3c7297d6e63,James Luna,Nike Dunk Low,36,399,798,2,2025-02-15 20:34:04
+3afdb380-0cc3-4c32-90fb-643cc73a86e7,Angela Miller,Nike Air Jordan 1 Retro,36,118,472,4,2024-06-25 05:16:29
+9835357a-5997-4acc-806b-a6f445f71c8f,Kevin Mcgee,Adidas NMD R1,43,248,992,4,2024-03-31 08:22:16
+4f94a688-991f-4b47-9684-79d30ebc48de,Kyle Cowan,Puma Suede Classic,40,247,988,4,2025-02-07 08:45:23
+5dd266eb-c45d-451b-98fc-d12687146445,Amanda Gomez,Nike ZoomX Vaporfly Next%,45,283,1132,4,2024-07-16 01:25:06
+ffe93316-8251-4694-bf50-a3340c6f29d0,Kathryn Donaldson,Reebok Classic Leather,47,494,1976,4,2024-04-28 14:26:51
+86c932e8-541e-49fc-9325-b3f8a3b6e94b,Kim Davidson,Salomon XT-6,37,335,1005,3,2024-08-14 07:44:02
+799a2f2f-6cfb-4376-8c74-e73deb36a027,Bryan Cox,Converse Run Star Hike,44,484,2420,5,2024-12-31 17:37:50
+aa66fc12-fefe-46a1-b393-c902536887bc,Gabriel Miller,Vans Old Skool,43,476,2380,5,2025-01-13 12:57:13
+f8c5c99f-76b4-4ad0-b54d-520ee50c01a2,Amy Howard,Vans Sk8-Hi,41,409,2045,5,2024-03-01 05:47:41
+76eb10f5-7087-429c-9a0e-4ad7bc35ecde,Gregory Sims,Adidas Superstar,39,365,1095,3,2024-10-03 17:42:19
+6d7c214e-3585-44b8-bde7-875b1846ed01,Jason Anderson,New Balance 550,41,221,221,1,2024-10-12 05:27:15
+2b670cdf-54c3-467c-b4b9-1f3d28dad0a8,Diana Conrad,Adidas Ultra Boost,40,324,972,3,2024-12-22 05:53:51
+985edf37-b431-4dcf-9085-f7bd7bdb9b77,Jaime Bell,Reebok Club C 85,41,382,764,2,2024-10-27 05:16:37
+ae9fec2d-27f0-43d7-8197-4565c77a2784,Stanley Lawrence,Nike Air Force 1,44,293,586,2,2024-03-17 09:10:08
+6efec122-a777-4fb3-a1e6-6715164cd372,Jerry Smith,Salomon XT-6,45,354,354,1,2025-02-10 14:31:23
+c94dcdf1-32bd-4bf2-bedd-e7cd53691593,Angela Howard,New Balance 990v5,46,427,1281,3,2024-09-26 07:05:56
+40300f05-4277-4433-a686-08cf51d14289,Dr. Brooke Munoz MD,Asics Gel-Lyte III,44,227,227,1,2025-01-28 05:11:23
+0d3eec28-0b5a-4613-bee6-a66eee1a0f53,Troy Freeman,Asics Gel-Kayano 14,43,284,1420,5,2024-03-06 15:46:00
+49125af8-1b10-4031-b76e-499ec4d61b74,Richard Grant,Adidas Ultra Boost,39,302,1510,5,2025-01-29 23:31:42
+0259d90b-72b3-49a0-ab10-cf689cb6a682,Sean Rodriguez,Adidas Forum Low,46,178,890,5,2024-03-02 01:30:56
+09ee2aa0-4569-474f-ae73-3b6a2dcc3a90,Stacy Mcfarland,Adidas Samba OG,44,476,476,1,2025-01-21 13:24:16
+6323dcf3-a54b-4472-988e-34397056bdd1,Ashley Reeves,Vans Old Skool,37,209,209,1,2024-07-13 14:45:48
+849e46a3-96c4-4f44-a6b7-db67c2c91056,William Franklin,New Balance 327,46,176,880,5,2024-07-12 06:35:49
+f7e37887-1f94-4380-a264-9d2fc3e8115a,Jack French,Adidas Forum Low,38,417,834,2,2024-11-08 05:25:01
+c1a13d48-3ed5-4a38-bf7b-a0690cc15ca3,Michael Davidson,Adidas Yeezy 700,37,113,339,3,2024-04-15 19:10:35
+cae31238-d17e-432d-8cd8-2805012e0bed,Brandy Hayes,Nike Dunk Low,37,222,666,3,2024-10-02 07:14:58
+d646f169-0df8-4101-85bc-cda23e4dc4f6,Kelsey Macias,Asics Gel-Kayano 14,41,245,980,4,2024-12-05 15:39:27
+4abb3394-406f-4121-a5a3-fb865b4df581,Jim White,Nike ZoomX Vaporfly Next%,43,305,915,3,2024-03-29 13:42:03
+131834de-6ecd-4391-90e3-29b94d4f84c5,Christopher Morgan,Nike ZoomX Vaporfly Next%,47,117,117,1,2024-10-25 15:02:59
+184a6f55-47d2-4404-9018-51882e965231,Raven Morris,New Balance 550,43,300,1500,5,2024-08-21 07:26:14
+d44d0756-ccbb-4d9c-b1aa-fa8ce179126e,Melissa Berg,Nike Air Force 1,42,486,972,2,2024-11-24 16:10:27
