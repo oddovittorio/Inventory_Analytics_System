@@ -1,0 +1,22 @@
+# Virtuelle Umgebung ignorieren
+venv/
+
+# Python-spezifische Ausschlüsse
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log- und temporäre Dateien
+*.log
+*.tmp
+
+# Datenbankdateien, falls lokal gespeichert
+*.sqlite
+*.db
+
+# Jupyter Notebook Checkpoints (falls du Jupyter verwendest)
+.ipynb_checkpoints/
+
+# VSCode spezifische Dateien
+.vscode/
