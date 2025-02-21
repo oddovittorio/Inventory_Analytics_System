@@ -1,5 +1,3 @@
-# Inventory Analytics System
-
 # Über mich und das Projekt
 Ich habe das Inventory Analytics System entwickelt, um meine Fähigkeiten in SQL, Python und Power BI zu demonstrieren. Dieses Projekt dient als praxisnahe Lösung zur Verwaltung und Visualisierung von Lagerbeständen und Verkaufsdaten und zeigt, wie datengetriebene Entscheidungen Geschäftsprozesse optimieren können.
 
