@@ -11,12 +11,8 @@ __pycache__/
 *.log
 *.tmp
 
-# Datenbankdateien, falls lokal gespeichert
-*.sqlite
-*.db
-
-# Jupyter Notebook Checkpoints (falls du Jupyter verwendest)
-.ipynb_checkpoints/
-
 # VSCode spezifische Dateien
 .vscode/
+
+# env-Dateien
+scripts/.env
